@@ -3,6 +3,9 @@ require 'pry-byebug'
 require 'erb'
 require 'date'
 
+# this script needs file 'off_parse.json' to be ready
+# see scrapper_off2021 to buil the file
+
 require_relative 'lib/play'
 
 def date_of_the_day(date)
@@ -15,8 +18,8 @@ serialized_plays = File.read(filepath)
 
 plays = JSON.parse(serialized_plays).map{|part| Play.new(part)}.select{|p| p.valid?}
 # binding.pry
-main_template = ERB.new(File.read('today_template.erb'))
-div_template = ERB.new(File.read('div.erb'))
+main_template = ERB.new(File.read('md_template.erb'))
+div_template = ERB.new(File.read('div_template.erb'))
 
 for day in (7..31)
   # today File

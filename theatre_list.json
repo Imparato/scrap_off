@@ -1,0 +1,1844 @@
+{
+  "/programme/2021/cour-du-spectateur-la-t2479/": {
+    "name": "COUR DU SPECTATEUR (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2479.jpg",
+    "address": "5 place Louis GASTIN 84000 Avignon",
+    "longlat": "43.9518536 4.81435069999998",
+    "tel": [
+      "+33 (0)6 28 67 09 82"
+    ],
+    "social": [
+      "tel:+33 (0)6 28 67 09 82",
+      "http://www.laligue84.org",
+      "https://www.facebook.com/ecoleduspectateur/",
+      "mailto:ecoleduspectateur@laligue84.org"
+    ],
+    "anchor": "cour-du-spectateur-la-t2479"
+  },
+  "/programme/2021/presence-pasteur-t2480/": {
+    "name": "PRÉSENCE PASTEUR",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2480.jpg",
+    "address": "13, rue du Pont Trouca 84000 Avignon",
+    "longlat": "43.947898 4.813244",
+    "tel": [
+      "+33 (0)4 32 74 18 54",
+      "+33 (0)7 89 74 20 05"
+    ],
+    "social": [
+      "tel:+33 (0)4 32 74 18 54",
+      "http://www.theatre-espoir.fr",
+      "https://www.facebook.com/Th%C3%A9%C3%A2tre-de-lEspoir-618484848562013/",
+      "https://twitter.com/EspoirTheatre",
+      "mailto:espoirtheatre@gmail.com"
+    ],
+    "anchor": "presence-pasteur-t2480"
+  },
+  "/programme/2021/notre-dame-theatre-t2462/": {
+    "name": "NOTRE DAME (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2462.jpg",
+    "address": "13 à 17, rue du Collège d'Annecy 84000 Avignon",
+    "longlat": "43.945969 4.804861",
+    "tel": [
+      "+33 (0)4 90 85 06 48"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 06 48",
+      "http://www.theatrenotredame.com/",
+      "mailto:theatrenotredame@orange.fr"
+    ],
+    "anchor": "notre-dame-theatre-t2462"
+  },
+  "/programme/2021/luna-theatre-la-t2469/": {
+    "name": "LUNA (THÉÂTRE LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2469.jpg",
+    "address": "1 rue Séverine 84000 Avignon",
+    "longlat": "43.9459177 4.81558659999996",
+    "tel": [
+      "+33 (0)4 90 86 96 28"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 96 28",
+      "http://www.theatre-laluna.fr",
+      "https://www.facebook.com/theatre.laluna",
+      "https://twitter.com/Theatre_la-Luna",
+      "mailto:contact@theatre-laluna.fr"
+    ],
+    "anchor": "luna-theatre-la-t2469"
+  },
+  "/programme/2021/lila-s-theatre-des-t2438/": {
+    "name": "LILA'S (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2438.jpg",
+    "address": "Entrée rue Rateau (angle rue Londe) 84000 Avignon",
+    "longlat": "43.945623 4.813344",
+    "tel": [
+      "+33 (0)4 90 33 89 89"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 33 89 89",
+      "https://Théâtre des Lila's",
+      "mailto:theatredeslilas@orange.fr"
+    ],
+    "anchor": "lila-s-theatre-des-t2438"
+  },
+  "/programme/2021/lascierie-t2563/": {
+    "name": "LASCIERIE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2563.jpg",
+    "address": "15 bd du quai St Lazare 84000 Avignon",
+    "longlat": "43.95215 4.818653",
+    "tel": [
+      "+33 (0)4 84 51 09 11"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 09 11",
+      "http://www.lascierie.coop",
+      "https://fb.me/lascierieavignon",
+      "mailto:equipe@lascierie.coop"
+    ],
+    "anchor": "lascierie-t2563"
+  },
+  "/programme/2021/la-c-est-de-la-musique-concerts-en-plein-air-t2554/": {
+    "name": "LÀ ! C'EST DE LA MUSIQUE (CONCERTS EN PLEIN AIR)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2554.jpg",
+    "address": "34 RUE JOSEPH VERNET 84000 Avignon",
+    "longlat": "43.9483207 4.80328150000003",
+    "tel": [
+      "+33 (0)4 32 75 05 29"
+    ],
+    "social": [
+      "tel:+33 (0)4 32 75 05 29",
+      "http://www.lacestdelamusique.com",
+      "https://www.facebook.com/lacestdelamusique",
+      "https://twitter.com/estdelamusique",
+      "mailto:lacestdelamusique@hotmail.com"
+    ],
+    "anchor": "la-c-est-de-la-musique-concerts-en-plein-air-t2554"
+  },
+  "/programme/2021/centre-theatre-du-t2482/": {
+    "name": "CENTRE (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2482.jpg",
+    "address": "13, rue Louis Pasteur 84000 Avignon",
+    "longlat": "43.9494542 4.81392370000003",
+    "tel": [
+      "+33 (0)6 58 64 33 88"
+    ],
+    "social": [
+      "tel:+33 (0)6 58 64 33 88",
+      "http://www.theatreducentre-avignon.com",
+      "mailto:contact@theatreducentre-avignon.com"
+    ],
+    "anchor": "centre-theatre-du-t2482"
+  },
+  "/programme/2021/girasole-theatre-du-t2526/": {
+    "name": "GIRASOLE (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2526.jpg",
+    "address": "24 bis, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9484073 4.8142785",
+    "tel": [
+      "+33 (0)4 90 82 74 42"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 74 42",
+      "http://theatredugirasole.fr",
+      "https://facebook.com/theatredugirasole/",
+      "https://twitter.com/Th_du_Girasole",
+      "mailto:contact@theatredugirasole.fr"
+    ],
+    "anchor": "girasole-theatre-du-t2526"
+  },
+  "/programme/2021/entrepot-l-cie-mises-en-scene-t2456/": {
+    "name": "ENTREPÔT (L') - Cie Mises en Scène",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2456.jpg",
+    "address": "1 TER BOULEVARD CHAMPFLEURY 84000 Avignon",
+    "longlat": "43.9409097 4.80545459999996",
+    "tel": [
+      "+33 (0)4 90 86 30 37"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 30 37",
+      "http://www.misesenscene.com",
+      "https://www.facebook.com/compagniemisesenscene/",
+      "mailto:reservations@misesenscene.com"
+    ],
+    "anchor": "entrepot-l-cie-mises-en-scene-t2456"
+  },
+  "/programme/2021/maison-du-theatre-pour-enfants-t2470/": {
+    "name": "MAISON DU THÉÂTRE POUR ENFANTS",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2470.jpg",
+    "address": "20 Av Monclar 84000 Avignon",
+    "longlat": "43.939396 4.805782",
+    "tel": [
+      "+33 (0)4 90 85 59 55"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 59 55",
+      "http://www.le-totem.com",
+      "https://www.facebook.com/LeTotemAvignon/"
+    ],
+    "anchor": "maison-du-theatre-pour-enfants-t2470"
+  },
+  "/programme/2021/carmes-andre-benedetto-theatre-des-t2447/": {
+    "name": "CARMES ANDRÉ BENEDETTO (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2447.jpg",
+    "address": "6, place des Carmes 84000 Avignon",
+    "longlat": "43.9504781 4.81317709999996",
+    "tel": [
+      "+33 (0)4 90 82 20 47"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 20 47",
+      "http://www.theatredescarmes.com",
+      "https://www.facebook.com/theatredescarmes/",
+      "https://twitter.com/TheatreCarmes?lang=fr",
+      "mailto:theatre-des-carmes@orange.fr"
+    ],
+    "anchor": "carmes-andre-benedetto-theatre-des-t2447"
+  },
+  "/programme/2021/tremplin-salle-les-baladins-t2489/": {
+    "name": "TREMPLIN - Salle Les Baladins",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2489.jpg",
+    "address": "7, rue du Bon Pasteur  84000 Avignon",
+    "longlat": "43.9468361 4.81296769999994",
+    "tel": [
+      "+33 (0)4 90 85 05 00"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 05 00"
+    ],
+    "anchor": "tremplin-salle-les-baladins-t2489"
+  },
+  "/programme/2021/etoiles-les-t2437/": {
+    "name": "ÉTOILES (LES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2437.jpg",
+    "address": "54 rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9463 4.81416999999999",
+    "tel": [
+      "+33 (0)6 15 43 42 26"
+    ],
+    "social": [
+      "tel:+33 (0)6 15 43 42 26"
+    ],
+    "anchor": "etoiles-les-t2437"
+  },
+  "/programme/2021/train-bleu-theatre-du-t2555/": {
+    "name": "TRAIN BLEU (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2555.jpg",
+    "address": "40, rue Paul Saïn 84000 Avignon",
+    "longlat": "43.9483801 4.81219369999997",
+    "tel": [
+      "+33 (0)4 90 82 39 06"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 39 06",
+      "http://www.theatredutrainbleu.fr",
+      "https://www.facebook.com/theatredutrainbleu/",
+      "mailto:contact@theatredutrainbleu.fr"
+    ],
+    "anchor": "train-bleu-theatre-du-t2555"
+  },
+  "/programme/2021/parenthese-la-t2533/": {
+    "name": "PARENTHÈSE (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2533.jpg",
+    "address": "18 rue des études 84000 Avignon",
+    "longlat": "43.9455298 4.80903050000006",
+    "tel": [
+      "+33 (0)4 90 87 46 81",
+      "+33 (0)6 98 64 60 98"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 87 46 81",
+      "http://labellescenesaintdenis.com",
+      "https://www.facebook.com/theatre.louisaragon",
+      "https://twitter.com/TLA_TREMBLAY",
+      "mailto:info@labellescenesaintdenis.com"
+    ],
+    "anchor": "parenthese-la-t2533"
+  },
+  "/programme/2021/sham-s-theatre-t2569/": {
+    "name": "SHAM'S THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2569.jpg",
+    "address": "25, rue Saint Jean Le Vieux  84000 Avignon",
+    "longlat": "43.9483 4.81075999999996",
+    "tel": [
+      "+33 (0)6 60 96 84 82"
+    ],
+    "social": [
+      "tel:+33 (0)6 60 96 84 82",
+      "https://Sham's Théâtre Avignon",
+      "https://Sham's Théâtre Avignon",
+      "mailto:bardelangle@yahoo.fr"
+    ],
+    "anchor": "sham-s-theatre-t2569"
+  },
+  "/programme/2021/factory-la-1-theatre-de-l-oulle-t2472/": {
+    "name": "FACTORY (LA) - 1-Théâtre de l'Oulle",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2472.jpg",
+    "address": "19, place Crillon 84000 Avignon",
+    "longlat": "43.950118 4.802923",
+    "tel": [
+      "+33 (0)9 74 74 64 90"
+    ],
+    "social": [
+      "tel:+33 (0)9 74 74 64 90",
+      "http://www.la-factory.org",
+      "https://www.facebook.com/letheatredeloulle",
+      "mailto:programmation@la-factory.org"
+    ],
+    "anchor": "factory-la-1-theatre-de-l-oulle-t2472"
+  },
+  "/programme/2021/buffon-t2519/": {
+    "name": "BUFFON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2519.jpg",
+    "address": "18 rue buffon 84000 Avignon",
+    "longlat": "43.9463714 4.81533060000004",
+    "tel": [
+      "+33 (0)4 90 27 36 89"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 27 36 89",
+      "http://www.theatre-buffon.fr",
+      "https://www.facebook.com/TheatreBuffon/",
+      "mailto:contact@theatre-buffon.fr"
+    ],
+    "anchor": "buffon-t2519"
+  },
+  "/programme/2021/beliers-theatre-des-t2442/": {
+    "name": "BÉLIERS (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2442.jpg",
+    "address": "53, rue du Portail Magnanen 84000 Avignon",
+    "longlat": "43.9439299 4.81193259999998",
+    "tel": [
+      "+33 (0)4 90 82 21 07"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 21 07",
+      "http://www.theatredesbeliers.com",
+      "https://www.facebook.com/theatredesbeliers/",
+      "mailto:contact@beeh.Fr"
+    ],
+    "anchor": "beliers-theatre-des-t2442"
+  },
+  "/programme/2021/manufacture-la-t2471/": {
+    "name": "MANUFACTURE (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2471.jpg",
+    "address": "2 bis, rue des écoles 84000 Avignon",
+    "longlat": "43.9475341 4.81537579999997",
+    "tel": [
+      "+33 (0)4 90 85 12 71"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 12 71",
+      "http://www.lamanufacture.org",
+      "https://lamanufacture.avignon",
+      "https://@LaManufacture84"
+    ],
+    "anchor": "manufacture-la-t2471"
+  },
+  "/programme/2021/roi-rene-theatre-du-t2487/": {
+    "name": "ROI RENÉ (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2487.jpg",
+    "address": "4 bis, rue Grivolas 84000 Avignon",
+    "longlat": "43.9470724 4.80941229999996",
+    "tel": [
+      "+33 (0)4 90 82 24 35"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 24 35",
+      "http://www.theatreduroirene.com",
+      "https://www.facebook.com/Théâtre-Du-Roi-René-Avignon-839501522835498/",
+      "mailto:administration@theatreduroirene.com"
+    ],
+    "anchor": "roi-rene-theatre-du-t2487"
+  },
+  "/programme/2021/factory-la-2-salle-tomasi-t2473/": {
+    "name": "FACTORY (LA) - 2-Salle Tomasi",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2473.jpg",
+    "address": "4, rue Bertrand 84000 Avignon",
+    "longlat": "43.951455 4.810107",
+    "tel": [
+      "+33 (0)9 74 74 64 90"
+    ],
+    "social": [
+      "tel:+33 (0)9 74 74 64 90",
+      "http://www.la-factory.org",
+      "https://www.facebook.com/letheatredeloulle",
+      "mailto:programmation@la-factory.org"
+    ],
+    "anchor": "factory-la-2-salle-tomasi-t2473"
+  },
+  "/programme/2021/ambigu-theatre-t2539/": {
+    "name": "AMBIGU THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2539.jpg",
+    "address": "7, rue de la bourse 84000 Avignon",
+    "longlat": "43.9438825 4.80701920000001",
+    "tel": [
+      "+33 (0)6 01 79 07 36"
+    ],
+    "social": [
+      "tel:+33 (0)6 01 79 07 36",
+      "http://theatreambigu.com",
+      "mailto:ambigu.theatre@gmail.com"
+    ],
+    "anchor": "ambigu-theatre-t2539"
+  },
+  "/programme/2021/capitole-le-t2570/": {
+    "name": "CAPITOLE (LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2570.jpg",
+    "address": "5 Rue Pourquery de Boisserin 84000 Avignon",
+    "longlat": "43.9463495692179 4.80479121208191",
+    "tel": [
+      "+33 (0)4 90 39 30 58"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 39 30 58",
+      "http://lecapitole-avignon.com",
+      "https://LE Capitole Avignon"
+    ],
+    "anchor": "capitole-le-t2570"
+  },
+  "/programme/2021/paradise-republique-t2537/": {
+    "name": "PARADISE RÉPUBLIQUE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2537.jpg",
+    "address": "9, rue Mignard 84000 Avignon",
+    "longlat": "43.947211 4.8053979",
+    "tel": [
+      "+33 (0)9 72 65 96 88"
+    ],
+    "social": [
+      "tel:+33 (0)9 72 65 96 88",
+      "https://www.paradiserepublique.com/",
+      "mailto:pelousse.paradise.resa@gmail.com"
+    ],
+    "anchor": "paradise-republique-t2537"
+  },
+  "/programme/2021/palace-theatre-le-t2493/": {
+    "name": "PALACE (THÉÂTRE LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2493.jpg",
+    "address": "38, cours Jean Jaurès 84000 Avignon",
+    "longlat": "43.9446236 4.80519249999998",
+    "tel": [
+      "+33 (0)4 84 51 22 25"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 22 25",
+      "http://www.lepalaceavignon.fr/",
+      "https://www.facebook.com/lepalaceavignon/",
+      "mailto:contact@lepalaceavignon.fr"
+    ],
+    "anchor": "palace-theatre-le-t2493"
+  },
+  "/programme/2021/paris-le-t2446/": {
+    "name": "PARIS (LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2446.jpg",
+    "address": "5 rue Henri Fabre 84000 Avignon",
+    "longlat": "43.9451301 4.80683850000003",
+    "tel": [
+      "+33 (0)4 90 82 14 45"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 14 45",
+      "http://www.leparisavignon.com/",
+      "https://www.facebook.com/Th%C3%A9%C3%A2tre-Le-Paris-Avignon-387879218108/?ref=mf",
+      "mailto:contact@leparisavignon.com"
+    ],
+    "anchor": "paris-le-t2446"
+  },
+  "/programme/2021/occitanie-fait-son-cirque-en-avignon-t2459/": {
+    "name": "OCCITANIE FAIT SON CIRQUE EN AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2459.jpg",
+    "address": "22 chemin de l'île Piot 84000 Avignon",
+    "longlat": "43.946516 4.794631",
+    "tel": [
+      "+33 (0)6 48 44 94 23",
+      "+33 (0)7 87 23 70 92"
+    ],
+    "social": [
+      "tel:+33 (0)6 48 44 94 23",
+      "http://www.polecirqueverrerie.com",
+      "https://www.facebook.com/OccitanieFaitSonCirqueEnAvignon/",
+      "https://@OFSCEA",
+      "mailto:billetterieavignon@polecirqueverrerie.com"
+    ],
+    "anchor": "occitanie-fait-son-cirque-en-avignon-t2459"
+  },
+  "/programme/2021/arto-t2566/": {
+    "name": "ARTO",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2566.jpg",
+    "address": "3, rue Râteau 84000 Avignon",
+    "longlat": "43.9453879 4.81385760000001",
+    "tel": [
+      "+33 (0)4 90 82 45 61"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 45 61",
+      "http://www.theatre-arto.fr",
+      "mailto:contact@theatre-arto.fr"
+    ],
+    "anchor": "arto-t2566"
+  },
+  "/programme/2021/espace-roseau-teinturiers-t2457/": {
+    "name": "ESPACE ROSEAU TEINTURIERS",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2457.jpg",
+    "address": "45, rue des Teinturiers 84000 Avignon",
+    "longlat": "43.945011 4.8133067",
+    "tel": [
+      "+33 (0)4 90 03 28 75"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 03 28 75",
+      "http://www.espaceroseauteinturiers.fr",
+      "mailto:espaceroseau@wanadoo.fr"
+    ],
+    "anchor": "espace-roseau-teinturiers-t2457"
+  },
+  "/programme/2021/contre-courant-festival-t2559/": {
+    "name": "CONTRE COURANT (FESTIVAL)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2559.jpg",
+    "address": "Ile de la Barthelasse 2201, route de l'Islon 84000 Avignon",
+    "longlat": "43.9813898 4.8208737",
+    "tel": [
+      "+33 (0)6 80 37 01 77"
+    ],
+    "social": [
+      "tel:+33 (0)6 80 37 01 77",
+      "http://www.ccas-contre-courant.org",
+      "mailto:Contre.Courant@asmeg.org"
+    ],
+    "anchor": "contre-courant-festival-t2559"
+  },
+  "/programme/2021/arrache-coeur-theatre-de-l-t4610/": {
+    "name": "ARRACHE-CŒUR (THÉÂTRE DE L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4610.jpg",
+    "address": "13, rue du 58° régiment d’infanterie 84000 Avignon",
+    "longlat": "43.94476 4.81526",
+    "tel": [
+      "+33 (0)6 51 00 82 43"
+    ],
+    "social": [
+      "tel:+33 (0)6 51 00 82 43",
+      "http://www.arrachecoeur.fr",
+      "https://www.facebook.com/theatrelarrachecoeur"
+    ],
+    "anchor": "arrache-coeur-theatre-de-l-t4610"
+  },
+  "/programme/2021/lucioles-theatre-des-t2468/": {
+    "name": "LUCIOLES (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2468.jpg",
+    "address": "10, rue du rempart St Lazare 84000 Avignon",
+    "longlat": "43.9530579 4.81252719999998",
+    "tel": [
+      "+33 (0)4 90 14 05 51"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 14 05 51",
+      "http://www.theatredeslucioles.com",
+      "mailto:lucioles.resa@gmail.com"
+    ],
+    "anchor": "lucioles-theatre-des-t2468"
+  },
+  "/programme/2021/golovine-theatre-t2464/": {
+    "name": "GOLOVINE (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2464.jpg",
+    "address": "1 Bis rue Sainte Catherine 84000 Avignon",
+    "longlat": "43.9504275 4.80932080000002",
+    "tel": [
+      "+33 (0)4 90 86 01 27"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 01 27",
+      "http://www.theatre-golovine.com",
+      "https://www.facebook.com/golovinetheatre",
+      "https://www.twitter.com/TheatreGolovine",
+      "mailto:contact@theatre-golovine.com"
+    ],
+    "anchor": "golovine-theatre-t2464"
+  },
+  "/programme/2021/au-vieux-balancier-t2491/": {
+    "name": "AU VIEUX BALANCIER",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2491.jpg",
+    "address": "2 RUE D AMPHOUX 84000 Avignon",
+    "longlat": "43.947958 4.811394",
+    "tel": [
+      "+33 (0)6 15 66 47 19"
+    ],
+    "social": [
+      "tel:+33 (0)6 15 66 47 19",
+      "http://www.levieuxbalancier.com",
+      "mailto:theatre.du.vieux.balancier@gmail.com"
+    ],
+    "anchor": "au-vieux-balancier-t2491"
+  },
+  "/programme/2021/humanum-149-t2575/": {
+    "name": "HUMANUM 149",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2575.jpg",
+    "address": "149, rue de la carreterie 84000 Avignon",
+    "longlat": "43.951629 4.816853",
+    "tel": [
+      "+33 (0)9 84 42 93 06"
+    ],
+    "social": [
+      "tel:+33 (0)9 84 42 93 06",
+      "https://humanum149.saty.re",
+      "https://www.facebook.com/Humanum-149-136128830386933/",
+      "mailto:humanum149@gmail.com"
+    ],
+    "anchor": "humanum-149-t2575"
+  },
+  "/programme/2021/villeneuve-en-scene-festival-t2550/": {
+    "name": "VILLENEUVE EN SCÈNE (FESTIVAL)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2550.jpg",
+    "address": "Plaine de l'Abbaye 30400 Villeneuve lez Avignon",
+    "longlat": "43.969834 4.80479590000004",
+    "tel": [
+      "+33 (0)4 32 75 15 95"
+    ],
+    "social": [
+      "tel:+33 (0)4 32 75 15 95",
+      "http://festivalvilleneuveenscene.com",
+      "https://facebook.com/FestivalVilleneuveenScene",
+      "https://twitter.com/FestivalVES",
+      "mailto:contact@festivalvilleneuveenscene.com"
+    ],
+    "anchor": "villeneuve-en-scene-festival-t2550"
+  },
+  "/programme/2021/albatros-t2431/": {
+    "name": "ALBATROS",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2431.jpg",
+    "address": "29, rue des Teinturiers 84000 Avignon",
+    "longlat": "43.9453484 4.81290749999994",
+    "tel": [
+      "+33 (0)4 90 86 11 33",
+      "+33 (0)4 90 85 23 23"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 11 33",
+      "https://Alibi Albatros Au Magasin Théâtres",
+      "mailto:marechalprovence@gmail.com"
+    ],
+    "anchor": "albatros-t2431"
+  },
+  "/programme/2021/bo-theatre-t2544/": {
+    "name": "BO (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2544.jpg",
+    "address": "20, bd St Roch 84000 Avignon",
+    "longlat": "43.942697 4.802439",
+    "tel": [
+      "+33 (0)1 42 71 50 00"
+    ],
+    "social": [
+      "tel:+33 (0)1 42 71 50 00",
+      "https://www.theatrebo.fr/spectacles-avignon-1",
+      "https://www.facebook.com/theatrebo/",
+      "https://@theatrebo",
+      "mailto:info@theatrebo.fr"
+    ],
+    "anchor": "bo-theatre-t2544"
+  },
+  "/programme/2021/alya-l-espace-t2495/": {
+    "name": "ALYA, L'ESPACE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2495.jpg",
+    "address": "31 bis, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9478824 4.814391",
+    "tel": [
+      "+33 (0)4 90 27 38 23"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 27 38 23",
+      "http://www.espacealya.com",
+      "https://www.facebook.com/espacealyaoff",
+      "https://twitter.com/espacealya",
+      "mailto:contact@espacealya.com"
+    ],
+    "anchor": "alya-l-espace-t2495"
+  },
+  "/programme/2021/pixel-avignon-salle-bayaf-t2543/": {
+    "name": "PIXEL AVIGNON SALLE BAYAF",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2543.jpg",
+    "address": "10, rue de la carreterie 84000 Avignon",
+    "longlat": "43.950138 4.81285",
+    "tel": [
+      "+33 (0)7 69 15 10 11"
+    ],
+    "social": [
+      "tel:+33 (0)7 69 15 10 11",
+      "http://www.pixelavignon.com",
+      "https://www.facebook.com/pixelavignonsallebayaf",
+      "mailto:contactpixelavignonbayaf@nolanprod.fr"
+    ],
+    "anchor": "pixel-avignon-salle-bayaf-t2543"
+  },
+  "/programme/2021/episcene-theatre-t2562/": {
+    "name": "ÉPISCÈNE (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2562.jpg",
+    "address": "5, rue Ninon Vallin 84000 Avignon",
+    "longlat": "43.943987 4.813955",
+    "tel": [
+      "+33 (0)4 90 01 90 54"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 01 90 54",
+      "http://www.episcene.fr",
+      "https://www.facebook.com/theatre.episcene.avignon",
+      "mailto:reservation@episcene.be"
+    ],
+    "anchor": "episcene-theatre-t2562"
+  },
+  "/programme/2021/chene-noir-theatre-du-direction-julien-gelas-t2527/": {
+    "name": "CHÊNE NOIR (THÉÂTRE DU) - Direction Julien Gelas",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2527.jpg",
+    "address": "8 BIS RUE SAINTE CATHERINE 84000 Avignon",
+    "longlat": "43.9505613 4.80972989999998",
+    "tel": [
+      "+33 (0)4 90 86 74 87"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 74 87",
+      "http://www.chenenoir.fr",
+      "https://www.facebook.com/chenenoir/",
+      "https://twitter.com/LeCheneNoir",
+      "mailto:contact@chenenoir.fr"
+    ],
+    "anchor": "chene-noir-theatre-du-direction-julien-gelas-t2527"
+  },
+  "/programme/2021/barriques-theatre-des-t2528/": {
+    "name": "BARRIQUES (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2528.jpg",
+    "address": "8, rue Ledru Rollin 84000 Avignon",
+    "longlat": "43.9501807 4.81254480000007",
+    "tel": [
+      "+33 (0)4 13 66 36 52"
+    ],
+    "social": [
+      "tel:+33 (0)4 13 66 36 52",
+      "http://www.theatredesbarriques.com",
+      "https://www.facebook.com/theatredesbarriques/?fref=ts",
+      "mailto:theatredesbarriques@gmail.com"
+    ],
+    "anchor": "barriques-theatre-des-t2528"
+  },
+  "/programme/2021/atelier-florentin-theatre-de-l-t2548/": {
+    "name": "ATELIER FLORENTIN (THÉÂTRE DE L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2548.jpg",
+    "address": "28, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.948095 4.814506",
+    "tel": [
+      "+33 (0)4 84 51 07 00"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 07 00",
+      "http://www.atelierflorentin.com",
+      "https://www.facebook.com/atelierflorentin",
+      "https://twitter.com/TafAvignon",
+      "mailto:atelierflorentin@gmail.com"
+    ],
+    "anchor": "atelier-florentin-theatre-de-l-t2548"
+  },
+  "/programme/2021/carreterie-theatre-de-la-t2556/": {
+    "name": "CARRETERIE (THÉÂTRE DE LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2556.jpg",
+    "address": "101, rue de la carreterie 84000 Avignon",
+    "longlat": "43.9512127 4.8154783",
+    "tel": [
+      "+33 (0)7 69 71 98 12",
+      "+33 (0)4 90 87 39 58"
+    ],
+    "social": [
+      "tel:+33 (0)7 69 71 98 12",
+      "http://www.carreterie.com/",
+      "https://www.facebook.com/theatrecarreterie/",
+      "mailto:theatrecarreterie@gmail.com"
+    ],
+    "anchor": "carreterie-theatre-de-la-t2556"
+  },
+  "/programme/2021/rempart-theatre-du-t2481/": {
+    "name": "REMPART (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2481.jpg",
+    "address": "56, rue du rempart Saint Lazare 84000 Avignon",
+    "longlat": "43.9520871 4.81708520000007",
+    "tel": [
+      "+33 (0)4 90 85 37 48",
+      "+33 (0)9 81 00 37 48"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 37 48",
+      "http://www.theatre-du-rempart.fr/",
+      "https://www.facebook.com/theatredurempart/?ref=bookmarks",
+      "https://twitter.com/?lang=en",
+      "mailto:theatredurempart84@gmail.com"
+    ],
+    "anchor": "rempart-theatre-du-t2481"
+  },
+  "/programme/2021/nouveau-grenier-le-t2574/": {
+    "name": "NOUVEAU GRENIER (LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2574.jpg",
+    "address": "9 rue Notre Dame des sept douleurs 84000 Avignon",
+    "longlat": "43.9483833312988 4.81593322753906",
+    "tel": [
+      "+33 (0)4 28 70 05 10"
+    ],
+    "social": [
+      "tel:+33 (0)4 28 70 05 10",
+      "http://www.culture.paysdelaloire.fr",
+      "https://www.facebook.com/regionpaysdelaloire/",
+      "https://twitter.com/paysdelaloire"
+    ],
+    "anchor": "nouveau-grenier-le-t2574"
+  },
+  "/programme/2021/laurette-theatre-avignon-t2523/": {
+    "name": "LAURETTE THÉÂTRE AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2523.jpg",
+    "address": "14, rue Plaisance 16/18, rue Joseph Vernet  84000 Avignon",
+    "longlat": "43.949775 4.803019",
+    "tel": [
+      "+33 (0)9 53 01 76 74",
+      "+33 (0)6 51 29 76 69"
+    ],
+    "social": [
+      "tel:+33 (0)9 53 01 76 74",
+      "http://www.laurette-theatre.fr",
+      "https://www.facebook.com/laurettetheatrefrance",
+      "https://twitter.com/laurettetheatre",
+      "mailto:avignon@laurette-theatre.fr"
+    ],
+    "anchor": "laurette-theatre-avignon-t2523"
+  },
+  "/programme/2021/gemeaux-theatre-des-t2565/": {
+    "name": "GÉMEAUX (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2565.jpg",
+    "address": "10 rue du Vieux Sextier 84000 Avignon",
+    "longlat": "43.9483 4.80796",
+    "tel": [
+      "+33 (0)9 87 78 05 58"
+    ],
+    "social": [
+      "tel:+33 (0)9 87 78 05 58",
+      "http://www.theatredesgemeaux.com",
+      "https://Théâtre des Gémeaux-Avignon",
+      "mailto:theatredesgemeaux@gmail.com"
+    ],
+    "anchor": "gemeaux-theatre-des-t2565"
+  },
+  "/programme/2021/atypik-theatre-t2478/": {
+    "name": "ATYPIK THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2478.jpg",
+    "address": "95, rue de la Bonneterie 84000 Avignon",
+    "longlat": "43.946364 4.8114223",
+    "tel": [
+      "+33 (0)4 86 34 27 27"
+    ],
+    "social": [
+      "tel:+33 (0)4 86 34 27 27",
+      "http://www.atypik-theatre.fr",
+      "mailto:scenedubalcon@aol.com"
+    ],
+    "anchor": "atypik-theatre-t2478"
+  },
+  "/programme/2021/rotonde-theatre-de-la-t2483/": {
+    "name": "ROTONDE (THÉÂTRE DE LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2483.jpg",
+    "address": "1 A, rue Jean Catelas 84000 Avignon",
+    "longlat": "43.937418 4.831098",
+    "tel": [
+      "+33 (0)6 80 50 43 87"
+    ],
+    "social": [
+      "tel:+33 (0)6 80 50 43 87",
+      "http://www.casi-cheminots-paca.org",
+      "https://Theatre de la Rotonde",
+      "mailto:theatredelarotonde@gmail.com"
+    ],
+    "anchor": "rotonde-theatre-de-la-t2483"
+  },
+  "/programme/2021/transversal-theatre-t2440/": {
+    "name": "TRANSVERSAL (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2440.jpg",
+    "address": "10, rue d'Amphoux 84000 Avignon",
+    "longlat": "43.947283 4.811065",
+    "tel": [
+      "+33 (0)4 90 86 17 12"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 17 12",
+      "http://www.theatretransversal.com",
+      "https://www.facebook.com/TheatreTransversal/",
+      "https://twitter.com/Th_Transversal",
+      "mailto:contact@theatretransversal.com"
+    ],
+    "anchor": "transversal-theatre-t2440"
+  },
+  "/programme/2021/essaion-avignon-t2463/": {
+    "name": "ESSAÏON-AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2463.jpg",
+    "address": "33 rue de la Carreterie 84000 Avignon",
+    "longlat": "43.949784 4.812559",
+    "tel": [
+      "+33 (0)4 90 25 63 48",
+      "+33 (0)7 69 53 80 02"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 25 63 48",
+      "http://www.essaion-avignon.com/",
+      "https://www.facebook.com/theatredelessaion/",
+      "mailto:laliberte1968@gmail.com"
+    ],
+    "anchor": "essaion-avignon-t2463"
+  },
+  "/programme/2021/corps-saints-theatre-des-t2453/": {
+    "name": "CORPS SAINTS (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2453.jpg",
+    "address": "76 PLACE DES CORPS SAINTS 84000 Avignon",
+    "longlat": "43.9441896 4.80754849999994",
+    "tel": [
+      "+33 (0)4 90 16 07 50"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 16 07 50",
+      "http://theatre-corps-saints-avignon.com",
+      "https://www.facebook.com/theatrecorpssaints/",
+      "mailto:p.jannin@orange.fr"
+    ],
+    "anchor": "corps-saints-theatre-des-t2453"
+  },
+  "/programme/2021/chapelle-du-verbe-incarne-t2449/": {
+    "name": "CHAPELLE DU VERBE INCARNÉ",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2449.jpg",
+    "address": "21G, rue des lices (en face du n°60) 84000 Avignon",
+    "longlat": "43.945491 4.810556",
+    "tel": [
+      "+33 (0)4 90 14 07 49"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 14 07 49",
+      "http://www.verbeincarne.fr",
+      "https://fr-fr.facebook.com/chapelleduverbeincarne/",
+      "https://twitter.com/VerbeIncarne",
+      "mailto:info@verbeincarne.fr"
+    ],
+    "anchor": "chapelle-du-verbe-incarne-t2449"
+  },
+  "/programme/2021/etincelle-theatre-de-l-t2460/": {
+    "name": "ÉTINCELLE (THÉÂTRE DE L’)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2460.jpg",
+    "address": "14 place des Etudes 84000 Avignon",
+    "longlat": "43.9456048 4.80880239999999",
+    "tel": [
+      "+33 (0)4 90 85 43 91"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 43 91",
+      "http://www.latarasque.fr",
+      "https://www.facebook.com/Théatre-de-lÉtincelle-243692519020770",
+      "mailto:latarasque@wanadoo.fr"
+    ],
+    "anchor": "etincelle-theatre-de-l-t2460"
+  },
+  "/programme/2021/vents-theatre-des-t4621/": {
+    "name": "VENTS (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4621.jpg",
+    "address": "63, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.947093963623 4.81430053710938",
+    "tel": [
+      "+33 (0)6 11 28 25 42"
+    ],
+    "social": [
+      "tel:+33 (0)6 11 28 25 42",
+      "http://theatredesvents.fr",
+      "https://www.facebook.com/theatre.desvents",
+      "mailto:theatredesvents@gmail.com"
+    ],
+    "anchor": "vents-theatre-des-t4621"
+  },
+  "/programme/2021/caserne-la-t2560/": {
+    "name": "CASERNE (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2560.jpg",
+    "address": "116, rue de la Carreterie 84000 Avignon",
+    "longlat": "43.9511407 4.81622449999998",
+    "tel": [
+      "+33 (0)4 90 33 88 99"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 33 88 99",
+      "http://www.grandest.fr",
+      "https://www.facebook.com/regiongrandest/",
+      "https://twitter.com/regiongrandest"
+    ],
+    "anchor": "caserne-la-t2560"
+  },
+  "/programme/2021/11-avignon-t2552/": {
+    "name": "11 • AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2552.jpg",
+    "address": "11, bd Raspail 84000 Avignon",
+    "longlat": "43.9442326 4.80408790000001",
+    "tel": [
+      "+33 (0)4 84 51 20 10"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 20 10",
+      "http://www.11avignon.com",
+      "http://www.facebook.com/11avignon",
+      "https://twitter.com/festivalavignon",
+      "mailto:contact@11avignon.com"
+    ],
+    "anchor": "11-avignon-t2552"
+  },
+  "/programme/2021/tache-d-encre-theatre-de-la-t2486/": {
+    "name": "TACHE D'ENCRE (THÉÂTRE DE LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2486.jpg",
+    "address": "1 rue de la Tarasque 84000 Avignon",
+    "longlat": "43.94488 4.813652",
+    "tel": [
+      "+33 (0)4 90 85 97 13"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 97 13",
+      "http://www.latachedencre.com",
+      "mailto:la.tache.dencre@wanadoo.fr"
+    ],
+    "anchor": "tache-d-encre-theatre-de-la-t2486"
+  },
+  "/programme/2021/comedie-d-avignon-la-t2536/": {
+    "name": "COMÉDIE D’AVIGNON (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2536.jpg",
+    "address": "40, rue des Lices 84000 Avignon",
+    "longlat": "43.9449948 4.80921490000003",
+    "tel": [
+      "+33 (0)6 03 42 05 76",
+      "+33 (0)6 44 02 14 21"
+    ],
+    "social": [
+      "tel:+33 (0)6 03 42 05 76",
+      "https://www.facebook.com/CLASH-Theatre-953248021361991/",
+      "mailto:kawazak@hotmail.com"
+    ],
+    "anchor": "comedie-d-avignon-la-t2536"
+  },
+  "/programme/2021/maison-de-la-poesie-d-avignon-t2448/": {
+    "name": "MAISON DE LA POÉSIE D'AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2448.jpg",
+    "address": "6 rue Figuière 84000 Avignon",
+    "longlat": "43.9473436 4.80661280000004",
+    "tel": [
+      "+33 (0)4 90 82 90 66"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 90 66",
+      "http://www.poesieavignon.eu",
+      "https://Poésie Avignon",
+      "mailto:direction@poesieavignon.eu"
+    ],
+    "anchor": "maison-de-la-poesie-d-avignon-t2448"
+  },
+  "/programme/2021/optimist-theatre-l-t2445/": {
+    "name": "OPTIMIST (THÉÂTRE L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2445.jpg",
+    "address": "50 rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9466 4.81407",
+    "tel": [
+      "+33 (0)4 90 31 82 89"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 31 82 89",
+      "https://loptimist.org/",
+      "https://www.facebook.com/Theatre.loptimist",
+      "mailto:cabestan.avignon@gmail.com"
+    ],
+    "anchor": "optimist-theatre-l-t2445"
+  },
+  "/programme/2021/au-bout-la-bas-theatre-t2529/": {
+    "name": "AU BOUT LÀ-BAS (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2529.jpg",
+    "address": "23, rue Noël Biret 84000 Avignon",
+    "longlat": "43.946109 4.810771",
+    "tel": [
+      "+33 (0)6 41 30 53 27"
+    ],
+    "social": [
+      "tel:+33 (0)6 41 30 53 27",
+      "https://avignon-theatreauboutlabas.com/",
+      "https://www.facebook.com/lucienetfrancoiseallouch",
+      "mailto:auboutlabas.theatre.avignon@gmail.com"
+    ],
+    "anchor": "au-bout-la-bas-theatre-t2529"
+  },
+  "/programme/2021/chapelle-des-italiens-la-t2584/": {
+    "name": "CHAPELLE DES ITALIENS (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2584.jpg",
+    "address": "33 rue Paul Saïn 84000 Avignon",
+    "longlat": "43.948332819806 4.81231661854601",
+    "tel": [
+      "+33 (0)9 52 42 66 72"
+    ],
+    "social": [
+      "tel:+33 (0)9 52 42 66 72",
+      "http://www.chapelledesitaliens.fr",
+      "https://www.facebook.com/chapelledesitaliens"
+    ],
+    "anchor": "chapelle-des-italiens-la-t2584"
+  },
+  "/programme/2021/al-andalus-t2578/": {
+    "name": "AL ANDALUS",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2578.jpg",
+    "address": "25, rue d'Amphoux 84000 Avignon",
+    "longlat": "43.94744 4.810975",
+    "tel": [
+      "+33 (0)7 67 44 14 97"
+    ],
+    "social": [
+      "tel:+33 (0)7 67 44 14 97",
+      "http://www.theatrealandalus.fr",
+      "mailto:resa.alandalus@gmail.com"
+    ],
+    "anchor": "al-andalus-t2578"
+  },
+  "/programme/2021/artephile-t2549/": {
+    "name": "ARTÉPHILE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2549.jpg",
+    "address": "5 bis, 7 rue Bourg Neuf 84000 Avignon",
+    "longlat": "43.946688 4.812342",
+    "tel": [
+      "+33 (0)4 90 03 01 90"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 03 01 90",
+      "http://www.artephile.com",
+      "https://www.facebook.com/artephileavignon/",
+      "mailto:contact@artephile.com"
+    ],
+    "anchor": "artephile-t2549"
+  },
+  "/programme/2021/kabarouf-alchimique-village-circus-t2538/": {
+    "name": "KABAROUF & Alchimique Village Circus",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2538.jpg",
+    "address": "Chemin des Canotiers Ile de la Barthelasse 84000 Avignon",
+    "longlat": "43.955686 4.809895",
+    "tel": [
+      "+33 (0)6 31 38 39 56"
+    ],
+    "social": [
+      "tel:+33 (0)6 31 38 39 56",
+      "http://kabarouf.fr/index.php",
+      "https://www.facebook.com/kabarouf/",
+      "https://twitter.com/Kabarouf",
+      "mailto:kabarouf@gmail.com"
+    ],
+    "anchor": "kabarouf-alchimique-village-circus-t2538"
+  },
+  "/programme/2021/actuel-theatre-t2545/": {
+    "name": "ACTUEL (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2545.jpg",
+    "address": "80, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9442687 4.81445340000005",
+    "tel": [
+      "+33 (0)4 65 87 38 98",
+      "+33 (0)7 89 74 54 00"
+    ],
+    "social": [
+      "tel:+33 (0)4 65 87 38 98",
+      "http://www.theatre-actuel-avignon.com",
+      "https://www.facebook.com/TheatreActuelAvignon/",
+      "https://twitter.com/TheatreActuel"
+    ],
+    "anchor": "actuel-theatre-t2545"
+  },
+  "/programme/2021/ange-theatre-de-l-t2436/": {
+    "name": "ANGE (THÉÂTRE DE L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2436.jpg",
+    "address": "15 17, rue des teinturiers 84000 Avignon",
+    "longlat": "43.945787 4.81237",
+    "tel": [
+      "+33 (0)6 15 43 42 26"
+    ],
+    "social": [
+      "tel:+33 (0)6 15 43 42 26",
+      "mailto:theatredelange@free.fr"
+    ],
+    "anchor": "ange-theatre-de-l-t2436"
+  },
+  "/programme/2021/pierre-de-lune-t4619/": {
+    "name": "PIERRE DE LUNE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4619.jpg",
+    "address": "3 RUE ROQUILLE 84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+      "+33 (0)4 84 51 22 33"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 22 33",
+      "https://www.theatre-pierredelune.fr/",
+      "mailto:sarl.lequartier84@gmail.com"
+    ],
+    "anchor": "pierre-de-lune-t4619"
+  },
+  "/programme/2021/petit-chien-theatre-le-t2451/": {
+    "name": "PETIT CHIEN (THÉÂTRE LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2451.jpg",
+    "address": "76, Rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9444047 4.81431769999995",
+    "tel": [
+      "+33 (0)4 84 51 07 48"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 07 48",
+      "http://www.chienquifume.com",
+      "mailto:contact@chienquifume.com"
+    ],
+    "anchor": "petit-chien-theatre-le-t2451"
+  },
+  "/programme/2021/le-vieux-sage-theatre-t4613/": {
+    "name": "LE VIEUX SAGE (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4613.jpg",
+    "address": "34 rue Carreterie 84000 Avignon",
+    "longlat": "43.9510841369629 4.81524658203125",
+    "tel": [
+      "+33 (0)9 52 52 61 37"
+    ],
+    "social": [
+      "tel:+33 (0)9 52 52 61 37",
+      "http://www.theatrelevieuxsage.com",
+      "mailto:public@theatrelevieuxsage.com"
+    ],
+    "anchor": "le-vieux-sage-theatre-t4613"
+  },
+  "/programme/2021/3-raisins-t2564/": {
+    "name": "3 RAISINS",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2564.jpg",
+    "address": "15 rue Thiers 84000 Avignon",
+    "longlat": "43.9476322 4.81216010000003",
+    "tel": [
+      "+33 (0)4 65 87 07 69"
+    ],
+    "social": [
+      "tel:+33 (0)4 65 87 07 69",
+      "http://www.theatre3raisins.com",
+      "https://theatre3raisins",
+      "mailto:3raisins@gmail.com"
+    ],
+    "anchor": "3-raisins-t2564"
+  },
+  "/programme/2021/balcon-theatre-du-t2441/": {
+    "name": "BALCON (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2441.jpg",
+    "address": "38, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9473544 4.81419329999994",
+    "tel": [
+      "+33 (0)4 90 85 00 80",
+      "+33 (0)4 65 00 01 70"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 00 80",
+      "http://theatredubalcon.org",
+      "mailto:contact@theatredubalcon.org"
+    ],
+    "anchor": "balcon-theatre-du-t2441"
+  },
+  "/programme/2021/italiens-theatre-des-t2532/": {
+    "name": "ITALIENS (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2532.jpg",
+    "address": "82 bis, Rempart Saint Lazare 84000 Avignon",
+    "longlat": "43.9516199 4.81860159999997",
+    "tel": [
+      "+33 (0)7 81 40 04 66"
+    ],
+    "social": [
+      "tel:+33 (0)7 81 40 04 66",
+      "https://www.facebook.com/theatre.desitaliens",
+      "mailto:theatredesitaliens@gmail.com"
+    ],
+    "anchor": "italiens-theatre-des-t2532"
+  },
+  "/programme/2021/carnot-theatre-t2521/": {
+    "name": "CARNOT (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2521.jpg",
+    "address": "16 rue Carnot 84000 Avignon",
+    "longlat": "43.9488611 4.80929140000001",
+    "tel": [
+      "+33 (0)6 52 50 65 70"
+    ],
+    "social": [
+      "tel:+33 (0)6 52 50 65 70",
+      "http://www.carnotetcie.com",
+      "mailto:carnotetcie@gmail.com"
+    ],
+    "anchor": "carnot-theatre-t2521"
+  },
+  "/programme/2021/hivernales-les-cdcn-d-avignon-t2466/": {
+    "name": "HIVERNALES (LES) - CDCN d'Avignon",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2466.jpg",
+    "address": "18, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.9495891 4.81420750000007",
+    "tel": [
+      "+33 (0)4 90 82 33 12"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 33 12",
+      "http://www.hivernales-avignon.com",
+      "https://www.facebook.com/leshivernalescdcn/",
+      "https://twitter.com/hivernales",
+      "mailto:accueil@hivernales-avignon.com"
+    ],
+    "anchor": "hivernales-les-cdcn-d-avignon-t2466"
+  },
+  "/programme/2021/95-au-verbe-fou-theatre-litteraire-t2490/": {
+    "name": "95. AU VERBE FOU, THÉÂTRE LITTÉRAIRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2490.jpg",
+    "address": "95 rue des Infirmières 84000 Avignon",
+    "longlat": "43.9513541 4.81505440000001",
+    "tel": [
+      "+33 (0)4 90 85 29 90"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 29 90",
+      "http://www.leverbefou.fr",
+      "https://le verbe fou",
+      "https://le verbe fou",
+      "mailto:fabienne.govaerts@skynet.be"
+    ],
+    "anchor": "95-au-verbe-fou-theatre-litteraire-t2490"
+  },
+  "/programme/2021/tremplin-salle-moliere-t2488/": {
+    "name": "TREMPLIN - Salle Molière",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2488.jpg",
+    "address": "8 ter, rue Cornue 84000 Avignon",
+    "longlat": "43.9470365 4.81274480000002",
+    "tel": [
+      "+33 (0)4 90 85 05 00"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 05 00"
+    ],
+    "anchor": "tremplin-salle-moliere-t2488"
+  },
+  "/programme/2021/castelet-theatre-le-t2541/": {
+    "name": "CASTELET (THÉÂTRE LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2541.jpg",
+    "address": "113 rue de la Carreterie  84000 Avignon",
+    "longlat": "43.95144 4.8157539",
+    "tel": [
+
+    ],
+    "social": [
+      "tel:+33 (0)0 00 00 00 00",
+      "http://www.theatrelecastelet.fr",
+      "https://theatre.lecastelet@gmail.com",
+      "mailto:theatre.lecastelet@gmail.com"
+    ],
+    "anchor": "castelet-theatre-le-t2541"
+  },
+  "/programme/2021/petite-caserne-la-t2474/": {
+    "name": "PETITE CASERNE (LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2474.jpg",
+    "address": "119, rue Carreterie 84000 Avignon",
+    "longlat": "43.9514203 4.81599519999997",
+    "tel": [
+      "+33 (0)4 90 86 85 79"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 85 79",
+      "http://www.theatrelapetitecaserne.fr",
+      "https://neant",
+      "https://neant",
+      "mailto:infos@avignon-lapetitecaserne.net"
+    ],
+    "anchor": "petite-caserne-la-t2474"
+  },
+  "/programme/2021/archipel-theatre-t2477/": {
+    "name": "ARCHIPEL THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2477.jpg",
+    "address": "25, bis rue du Rempart de l'Oulle  84000 Avignon",
+    "longlat": "43.9477752 4.8008092",
+    "tel": [
+      "+33 (0)4 90 82 96 13"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 82 96 13",
+      "http://www.archipel-theatre.fr",
+      "mailto:archipeltheatre@aol.com"
+    ],
+    "anchor": "archipel-theatre-t2477"
+  },
+  "/programme/2021/avignon-reine-blanche-t2571/": {
+    "name": "AVIGNON-REINE BLANCHE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2571.jpg",
+    "address": "16 rue de la grande fusterie 84000 Avignon",
+    "longlat": "43.9513 4.80459",
+    "tel": [
+      "+33 (0)4 90 85 38 17",
+      "+33 (0)1 40 05 06 96"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 85 38 17",
+      "http://reineblanche.com",
+      "https://@AvignonReineBlanche",
+      "https://@LaReineBlanche",
+      "mailto:reservation@scenesblanches.com"
+    ],
+    "anchor": "avignon-reine-blanche-t2571"
+  },
+  "/programme/2021/jardin-de-maison-de-fogasses-t4629/": {
+    "name": "Jardin de Maison de Fogasses",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels//404.png",
+    "address": "37 rue des Fourbisseurs 84000 Avignon",
+    "longlat": "43.947465 4.807873",
+    "tel": [
+
+    ],
+    "social": [
+
+    ],
+    "anchor": "jardin-de-maison-de-fogasses-t4629"
+  },
+  "/programme/2021/chapeau-rouge-theatre-t2517/": {
+    "name": "CHAPEAU ROUGE THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2517.jpg",
+    "address": "25 , 34 36 Rue Du Chapeau Rouge 84000 Avignon",
+    "longlat": "43.9491006 4.81160139999997",
+    "tel": [
+      "+33 (0)4 90 84 04 03",
+      "+33 (0)6 63 04 09 71"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 84 04 03",
+      "http://www.chapeaurougeavignon.org",
+      "https://www.facebook.com/chapeaurougetheatre/",
+      "mailto:asso.chapeau.rouge@hotmail.fr"
+    ],
+    "anchor": "chapeau-rouge-theatre-t2517"
+  },
+  "/programme/2021/halles-theatre-des-t2465/": {
+    "name": "HALLES (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2465.jpg",
+    "address": "Rue du Roi René 84000 Avignon",
+    "longlat": "43.946239 4.809882",
+    "tel": [
+      "+33 (0)4 32 76 24 51"
+    ],
+    "social": [
+      "tel:+33 (0)4 32 76 24 51",
+      "http://www.theatredeshalles.com",
+      "https://www.facebook.com/theatredeshalles/",
+      "https://twitter.com/tdhavignon",
+      "mailto:contact@theatredeshalles.com"
+    ],
+    "anchor": "halles-theatre-des-t2465"
+  },
+  "/programme/2021/brunes-theatre-des-t2547/": {
+    "name": "BRUNES (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2547.jpg",
+    "address": "32 rue Thiers 84000 Avignon",
+    "longlat": "43.9473589 4.81291999999996",
+    "tel": [
+      "+33 (0)4 84 36 00 37"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 36 00 37",
+      "http://www.theatredesbrunes.fr",
+      "https://theatredesbrunes",
+      "mailto:contact@theatredesbrunes.fr"
+    ],
+    "anchor": "brunes-theatre-des-t2547"
+  },
+  "/programme/2021/cabestan-theatre-le-t2443/": {
+    "name": "CABESTAN (THÉÂTRE LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2443.jpg",
+    "address": "11, rue du Collège de la Croix 84000 Avignon",
+    "longlat": "43.946743 4.808684",
+    "tel": [
+      "+33 (0)4 90 86 11 74"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 11 74",
+      "https://lecabestan.org/",
+      "https://www.facebook.com/theatre.lecabestan",
+      "https://twitter.com/ThtreLeCabestan",
+      "mailto:cabestan.avignon@gmail.com"
+    ],
+    "anchor": "cabestan-theatre-le-t2443"
+  },
+  "/programme/2021/chien-qui-fume-theatre-du-t2450/": {
+    "name": "CHIEN QUI FUME (THÉÂTRE DU)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2450.jpg",
+    "address": "75, rue des Teinturiers 84000 Avignon",
+    "longlat": "43.94507 4.814268",
+    "tel": [
+      "+33 (0)4 84 51 07 48"
+    ],
+    "social": [
+      "tel:+33 (0)4 84 51 07 48",
+      "http://www.chienquifume.com",
+      "https://www.facebook.com/theatre.chienquifume/",
+      "https://twitter.com/?lang=fr",
+      "mailto:contact@chienquifume.com"
+    ],
+    "anchor": "chien-qui-fume-theatre-du-t2450"
+  },
+  "/programme/2021/adresse-l-t2515/": {
+    "name": "ADRESSE (L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2515.jpg",
+    "address": "2, avenue de la Trillade 84000 Avignon",
+    "longlat": "43.9431421 4.81331799999998",
+    "tel": [
+      "+33 (0)4 65 81 17 85",
+      "+33 (0)6 16 82 04 03"
+    ],
+    "social": [
+      "tel:+33 (0)4 65 81 17 85",
+      "http://www.theatredeladresse.com",
+      "https://théâtre de l' adresse",
+      "https://l'adresse officiel",
+      "mailto:theatredeladresse@gmail.com"
+    ],
+    "anchor": "adresse-l-t2515"
+  },
+  "/programme/2021/factory-la-3-chapelle-des-antonins-t4614/": {
+    "name": "FACTORY (LA) - 3-Chapelle des Antonins",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4614.jpg",
+    "address": "5, rue Figuière 84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+      "+33 (0)7 78 26 38 23"
+    ],
+    "social": [
+      "tel:+33 (0)7 78 26 38 23",
+      "http://www.chapelledesantonins.com"
+    ],
+    "anchor": "factory-la-3-chapelle-des-antonins-t4614"
+  },
+  "/programme/2021/fabrik-theatre-t2461/": {
+    "name": "FABRIK THÉÂTRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2461.jpg",
+    "address": "10, route de Lyon, Impasse Favot 84000 Avignon",
+    "longlat": "43.949372 4.820784",
+    "tel": [
+      "+33 (0)4 90 86 47 81"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 86 47 81",
+      "http://fabriktheatre.fr/",
+      "https://www.facebook.com/fabriktheatre.avignon.7/",
+      "mailto:contact@fabritheatre.fr"
+    ],
+    "anchor": "fabrik-theatre-t2461"
+  },
+  "/programme/2021/grand-pavois-theatre-le-t2444/": {
+    "name": "GRAND PAVOIS (THÉÂTRE LE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2444.jpg",
+    "address": "13, rue Bouquerie 84000 Avignon",
+    "longlat": "43.946955 4.80465",
+    "tel": [
+      "+33 (0)6 65 61 11 74"
+    ],
+    "social": [
+      "tel:+33 (0)6 65 61 11 74",
+      "https://legrandpavois.org/",
+      "https://www.facebook.com/Théâtre-Le-Grand-Pavois-323585508302553",
+      "https://twitter.com/ThtreLeCabestan",
+      "mailto:cabestan.avignon@gmail.com"
+    ],
+    "anchor": "grand-pavois-theatre-le-t2444"
+  },
+  "/programme/2021/3-soleils-theatre-galerie-t2524/": {
+    "name": "3 SOLEILS (THÉÂTRE / GALERIE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2524.jpg",
+    "address": "4, rue Buffon 84000 Avignon",
+    "longlat": "43.9476351 4.81580299999996",
+    "tel": [
+      "+33 (0)4 90 88 27 33"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 88 27 33",
+      "http://les3soleils.fr",
+      "mailto:les3soleils@gmail.com"
+    ],
+    "anchor": "3-soleils-theatre-galerie-t2524"
+  },
+  "/programme/2021/isle-80-t2518/": {
+    "name": "ISLE 80",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2518.jpg",
+    "address": "18, place des trois Pilats 84000 Avignon",
+    "longlat": "43.9512285 4.81188369999995",
+    "tel": [
+      "+33 (0)4 88 07 91 68",
+      "+33 (0)6 42 69 00 26"
+    ],
+    "social": [
+      "tel:+33 (0)4 88 07 91 68",
+      "https://isle80.wordpress.com",
+      "mailto:isle80@gmail.com"
+    ],
+    "anchor": "isle-80-t2518"
+  },
+  "/programme/2021/porte-saint-michel-theatre-de-la-t2546/": {
+    "name": "PORTE SAINT MICHEL (THÉÂTRE DE LA)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2546.jpg",
+    "address": "23, rue Saint Michel 84000 Avignon",
+    "longlat": "43.9438062 4.80821360000004",
+    "tel": [
+      "+33 (0)9 80 43 01 79",
+      "+33 (0)7 69 39 87 43"
+    ],
+    "social": [
+      "tel:+33 (0)9 80 43 01 79",
+      "http://theatreportestmichel.wix.com/theatreportestmichel",
+      "https://www.facebook.com/Théâtre-de-la-porte-Saint-Michel-1420909141505792/?ref=hl",
+      "mailto:theatreportestmichel@gmail.com"
+    ],
+    "anchor": "porte-saint-michel-theatre-de-la-t2546"
+  },
+  "/programme/2021/palais-du-rire-t4616/": {
+    "name": "PALAIS DU RIRE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4616.jpg",
+    "address": "39 RUE DU PORTAIL MAGNANEN 84000 Avignon",
+    "longlat": "43.9443092346191 4.81081438064575",
+    "tel": [
+      "+33 (0)4 90 88 30 23",
+      "+33 (0)6 65 68 74 25"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 88 30 23",
+      "https://www.palaisdurire.com/",
+      "https://www.facebook.com/Palais-du-Rire-Avignon-105480927620892",
+      "mailto:palaisdurireavignon@gmail.com"
+    ],
+    "anchor": "palais-du-rire-t4616"
+  },
+  "/programme/2021/au-coin-de-la-lune-t2520/": {
+    "name": "AU COIN DE LA LUNE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2520.jpg",
+    "address": "24 rue Buffon 84000 Avignon",
+    "longlat": "43.9459418 4.81510219999996",
+    "tel": [
+      "+33 (0)4 90 39 87 29"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 39 87 29",
+      "http://www.theatre-aucoindelalune.fr",
+      "https://www.facebook.com/TheatreAuCoinDeLaLune/",
+      "mailto:contact@theatre-aucoindelalune.fr"
+    ],
+    "anchor": "au-coin-de-la-lune-t2520"
+  },
+  "/programme/2021/doms-theatre-des-t2455/": {
+    "name": "DOMS (THÉÂTRE DES)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2455.jpg",
+    "address": "1 bis, rue des Escaliers Sainte Anne 84000 Avignon",
+    "longlat": "43.9516592 4.80893519999995",
+    "tel": [
+      "+33 (0)4 90 14 07 99"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 14 07 99",
+      "http://www.lesdoms.eu",
+      "https://www.facebook.com/TheatredesDoms/",
+      "https://twitter.com/TheatredesDoms",
+      "mailto:accueil@lesdoms.eu"
+    ],
+    "anchor": "doms-theatre-des-t2455"
+  },
+  "/programme/2021/cour-du-barouf-cour-des-platanes-t4615/": {
+    "name": "COUR DU BAROUF - COUR DES PLATANES",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4615.jpg",
+    "address": "15 rue Louis Pasteur 84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+      "+33 (0)6 50 12 43 38"
+    ],
+    "social": [
+      "tel:+33 (0)6 50 12 43 38",
+      "https://www.facebook.com/courdesplatanes"
+    ],
+    "anchor": "cour-du-barouf-cour-des-platanes-t4615"
+  },
+  "/programme/2021/maison-de-la-parole-t2534/": {
+    "name": "MAISON DE LA PAROLE",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2534.jpg",
+    "address": "7, rue du Prévot 84000 Avignon",
+    "longlat": "43.94657319751 4.80643406510353",
+    "tel": [
+      "+33 (0)7 66 76 44 98",
+      "+33 (0)4 90 82 61 10"
+    ],
+    "social": [
+      "tel:+33 (0)7 66 76 44 98",
+      "http://maisondelaparole.fr/",
+      "mailto:odilegaillanne@yahoo.fr"
+    ],
+    "anchor": "maison-de-la-parole-t2534"
+  },
+  "/programme/2021/condition-des-soies-t2452/": {
+    "name": "CONDITION DES SOIES",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2452.jpg",
+    "address": "13, rue de la Croix 84000 Avignon",
+    "longlat": "43.949682 4.810444",
+    "tel": [
+      "+33 (0)4 90 22 48 43"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 22 48 43",
+      "http://www.conditiondessoies.com",
+      "https://www.facebook.com/TheatreLaConditionDesSoies",
+      "mailto:administration@antheasogno.com"
+    ],
+    "anchor": "condition-des-soies-t2452"
+  },
+  "/programme/2021/autre-carnot-theatre-l-t2522/": {
+    "name": "AUTRE CARNOT (THÉÂTRE L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2522.jpg",
+    "address": "7 rue Carnot 84000 Avignon",
+    "longlat": "43.949084 4.809078",
+    "tel": [
+      "+33 (0)6 52 53 99 13",
+      "+33 (0)9 73 23 04 18"
+    ],
+    "social": [
+      "tel:+33 (0)6 52 53 99 13",
+      "http://www.carnotetcie.com",
+      "mailto:carnotetcie@gmail.com"
+    ],
+    "anchor": "autre-carnot-theatre-l-t2522"
+  },
+  "/programme/2021/alize-t2434/": {
+    "name": "ALIZÉ",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2434.jpg",
+    "address": "15, rue du 58è R.I 84000 Avignon",
+    "longlat": "43.94488 4.815703",
+    "tel": [
+      "+33 (0)4 90 14 68 70",
+      "+33 (0)6 83 25 24 52"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 14 68 70",
+      "http://www.theatrelalize.com",
+      "mailto:theatre.alize@laposte.net"
+    ],
+    "anchor": "alize-t2434"
+  },
+  "/programme/2021/le-delirium-t2506/": {
+    "name": "Le Délirium",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels//404.png",
+    "address": "1 rue Mignard 84000 Avignon",
+    "longlat": "43.9472 4.8062",
+    "tel": [
+
+    ],
+    "social": [
+
+    ],
+    "anchor": "le-delirium-t2506"
+  },
+  "/programme/2021/pixel-avignon-t2542/": {
+    "name": "PIXEL AVIGNON",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2542.jpg",
+    "address": "18, rue Guillaume Puy 84000 Avignon",
+    "longlat": "43.949381 4.814295",
+    "tel": [
+      "+33 (0)7 82 04 88 01"
+    ],
+    "social": [
+      "tel:+33 (0)7 82 04 88 01",
+      "http://www.pixelavignon.com",
+      "https://www.facebook.com/Pixel-Avignon-143974819279314/",
+      "mailto:contactpixelavignon@nolanprod.fr"
+    ],
+    "anchor": "pixel-avignon-t2542"
+  },
+  "/programme/2021/le-grenier-a-sel-aires-numeriques-2-t4617/": {
+    "name": "LE GRENIER A SEL – Aires numériques #2",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4617.jpg",
+    "address": "2 rue du rempart Saint Lazare 84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+      "+33 (0)4 32 74 05 31"
+    ],
+    "social": [
+      "tel:+33 (0)4 32 74 05 31",
+      "https://legrenierasel-avignon.fr/",
+      "mailto:accueil@legrenierasel-avignon.fr"
+    ],
+    "anchor": "le-grenier-a-sel-aires-numeriques-2-t4617"
+  },
+  "/programme/2021/atelier-44-l-t2439/": {
+    "name": "ATELIER 44 (L')",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2439.jpg",
+    "address": "44, rue Thiers 84000 Avignon",
+    "longlat": "43.9470608 4.81428949999997",
+    "tel": [
+      "+33 (0)4 90 16 94 31"
+    ],
+    "social": [
+      "tel:+33 (0)4 90 16 94 31",
+      "http://www.latelier-44.fr",
+      "https://L'Atelier Quarante Quatre",
+      "mailto:latelier44@gmail.com"
+    ],
+    "anchor": "atelier-44-l-t2439"
+  },
+  "/programme/2021/l-atelier-la-manutention-t4618/": {
+    "name": "L'ATELIER  (La Manutention)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_4618.jpg",
+    "address": "4 rue des escaliers Sainte Anne 84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+      "+33 (0)6 83 21 69 13",
+      "+33 (0)6 24 31 23 57"
+    ],
+    "social": [
+      "tel:+33 (0)6 83 21 69 13",
+      "mailto:contact@naif-production.fr"
+    ],
+    "anchor": "l-atelier-la-manutention-t4618"
+  },
+  "/programme/2021/collection-lambert-t4622/": {
+    "name": "Collection Lambert",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels//404.png",
+    "address": "5 rue Violette  84000 Avignon",
+    "longlat": "0 0",
+    "tel": [
+
+    ],
+    "social": [
+
+    ],
+    "anchor": "collection-lambert-t4622"
+  },
+  "/programme/2021/barretta-theatre-t2561/": {
+    "name": "BARRETTA (THÉÂTRE)",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels/2021/theatre/print/theatre_2561.jpg",
+    "address": "12, place Saint Didier 84000 Avignon",
+    "longlat": "43.946605 4.806997",
+    "tel": [
+      "+33 (0)7 60 43 67 86",
+      "+33 (0)6 50 60 02 78"
+    ],
+    "social": [
+      "tel:+33 (0)7 60 43 67 86",
+      "http://www.theatre-barretta.com",
+      "https://www.facebook.com/Théâtre-Barretta-191792621557117/"
+    ],
+    "anchor": "barretta-theatre-t2561"
+  },
+  "/programme/2021/boulodrome-de-l-ile-piot-t2512/": {
+    "name": "Boulodrome de l’Ile Piot",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels//404.png",
+    "address": "1 chemin de l’Ile Piot – Sous le pont Daladier 84000 Avignon",
+    "longlat": "43.9518 4.79838",
+    "tel": [
+
+    ],
+    "social": [
+
+    ],
+    "anchor": "boulodrome-de-l-ile-piot-t2512"
+  },
+  "/programme/2021/pole-theatre-et-marionnette-t4623/": {
+    "name": "Pôle Théâtre et Marionnette",
+    "image_url": "https://www.festivaloffavignon.com/resources/off/visuels//404.png",
+    "address": "2155 Chemin de la Barthelasse 84000 Avignon",
+    "longlat": "43.9641561431578 4.81623802815272",
+    "tel": [
+
+    ],
+    "social": [
+
+    ],
+    "anchor": "pole-theatre-et-marionnette-t4623"
+  }
+}
