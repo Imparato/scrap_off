@@ -40,4 +40,12 @@ class Play
     @schedules.select{|s| s.relache_tomorrow?(day)}.count == @schedules.count
   end
 
+  def derniere?(day)
+    @schedules.find{|s| s.days.last > day}.nil?
+  end
+
+  def premiere?(day)
+    @schedules.find{|s| s.days.first < day}.nil?
+  end
+
 end

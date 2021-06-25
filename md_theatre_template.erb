@@ -2,7 +2,7 @@
 
 Aujourd'hui __<%= date_of_the_day(date).downcase %>__, <mark><%= selection.count %></mark> spectacles vous attendent !
 
-Théâtre par théâtre, voici tous les spectacles qui se jouent aujourd'hui <%= date_of_the_day(date).downcase %> sur Avignon.
+Théâtre par théâtre, voici la programmation pour aujourd'hui <%= date_of_the_day(date).downcase %> sur Avignon.
 
 <br>
 <p class='blog-category' style='background-color: #ecd0364a'>💡 Consultez les dernières <a href='https://www.imparato.io/blog/quelles-restrictions-sanitaires-pour-le-off-2021'>informations concernant les restrictions sanitaires </a>pour __l'accès au Off 2021__</p>
@@ -22,8 +22,12 @@ Cliquez sur le théâtre de votre choix sur la carte ou parcourez la liste des t
 <ul>
   <% selection.select{|p| p.place_url == key}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <li><b><%= play.schedule(day).time%></b> - <a rel='nofollow' href="<%= play.page_url%>"><%= play.title%></a>
-  <% if play.relache_tomorrow?(day) %>
-  <p style="color: red">dernier jour avant relâche !</p>
+  <% if play.derniere?(day) && day < 31 %>
+  <p style="color: red">c'est la dernière 🎉 !!!</p>
+  <% elsif play.relache_tomorrow?(day) && day < 31%>
+  <p style="color: red">demain, ils font relâche</p>
+  <% elsif play.premiere?(day) %>
+  <p style="color: red">c'est la première !!</p>
   <% end %>
 </li>
   <% end %>
