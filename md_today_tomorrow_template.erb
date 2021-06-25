@@ -49,7 +49,7 @@ Voir aussi le créneau suivant : [à partir de 10h](#10)
 </div>
 
 <a name='10'></a><br/>
-### <%= time.capitalize %> à partir de 10h
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de 10h
 
 Voir aussi le créneau suivant : [à partir de midi](#midi)
 
@@ -70,7 +70,7 @@ Voir aussi le créneau suivant : [à partir de midi](#midi)
 </div>
 
 <a name='midi'></a><br/>
-### <%= time.capitalize %> à partir de midi
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de midi
 
 Voir aussi le créneau suivant : [à partir de 14h](#14)
 
@@ -91,7 +91,7 @@ Voir aussi le créneau suivant : [à partir de 14h](#14)
 </div>
 
 <a name='14'></a><br/>
-### <%= time.capitalize %> à partir de 14h
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de 14h
 
 Voir aussi le créneau suivant : [à partir de 16h](#16)
 
@@ -112,7 +112,7 @@ Voir aussi le créneau suivant : [à partir de 16h](#16)
 </div>
 
 <a name='16'></a><br/>
-### <%= time.capitalize %> à partir de 16h
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de 16h
 
 Voir aussi le créneau suivant : [à partir de 18h](#18)
 
@@ -133,7 +133,7 @@ Voir aussi le créneau suivant : [à partir de 18h](#18)
 </div>
 
 <a name='18'></a><br/>
-### <%= time.capitalize %> à partir de 18h
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de 18h
 
 Voir aussi le créneau suivant : [après 20h](#20)
 
@@ -155,7 +155,7 @@ Voir aussi le créneau suivant : [après 20h](#20)
 </div>
 
 <a name='20'></a><br/>
-### <%= time.capitalize %> après 20h
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, après 20h
 
 <div class='row display-flex'><% counter = 1 %>
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 20, 23)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
