@@ -11,7 +11,7 @@ def update_blog_post(slug, content, publish = true)
 end
 
 def get_content(url)
-  json = RestClient.get url, {:Authorization => "token a37436ac8f35de1f84af67565cbc56bb9385815b"}
+  json = RestClient.get url, {:Authorization => "token #{ENV['GITHUB_AUTH_TOKEN']}"}
   Base64.decode64(JSON.parse(json.body)["content"]).force_encoding('UTF-8')
 end
 
