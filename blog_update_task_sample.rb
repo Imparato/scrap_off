@@ -18,7 +18,7 @@ end
 def update_articles_off(date = Date.today)
   # créé un fichier
   return if date < Date.new(2021, 07, 07)
-  day = date.day.to_s
+  day = date.day
   day = 99 if date > Date.new(2021, 07, 31)
   slugs = {
     demain: "quelle-piece-voir-demain-au-festival-off-d-avignon",
@@ -28,16 +28,16 @@ def update_articles_off(date = Date.today)
   today_md = tomorrow_md = theatre_md = ""
 
   # get today content
-  url = "https://api.github.com/repos/imparato/scrap_off/contents/today/#{date.day}.md"
+  url = "https://api.github.com/repos/imparato/scrap_off/contents/today/#{day}.md"
   update_blog_post(slugs[:jour], get_content(url))
 
   # update théâtre
-  url = "https://api.github.com/repos/imparato/scrap_off/contents/theatres/#{date.day}.md"
+  url = "https://api.github.com/repos/imparato/scrap_off/contents/theatres/#{day}.md"
   update_blog_post(slugs[:theatres], get_content(url), day <= 31)
 
   # update tomorrow
   if day < 31
-    url = "https://api.github.com/repos/imparato/scrap_off/contents/tomorrow/#{date.day + 1}.md"
+    url = "https://api.github.com/repos/imparato/scrap_off/contents/tomorrow/#{day + 1}.md"
     update_blog_post(slugs[:demain], get_content(url))
   else
     update_blog_post(slugs[:demain], '### Article fermé', false)
