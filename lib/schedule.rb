@@ -2,6 +2,7 @@ class Schedule
   attr_reader :days, :time, :duration, :valid
   def initialize(litteral)
     @valid = true
+    litteral.gsub!("\u00A0"," ")
     matches = litteral.match(/(?<nil1>du (?<start>\d+) au (?<stop>\d+)|les? (?<dates>[^-]+)) juillet(?<nil3>.*jours.(?<pairs>pairs|impairs))?(?<nil2> - .elâche.? (?<nila>les?|:) (?<relache>.+) juillet)? *(?<nilx>à|de) *(?<horaire>\d+h\d*).+: (?<duree>.+)/)
     unless matches
       @valid = false
@@ -44,7 +45,7 @@ class Schedule
   end
 
   def relache_tomorrow?(today)
-    return !today(today + 1)
+    return !today?(today + 1)
   end
 
   def time_to_i

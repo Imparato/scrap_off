@@ -8,17 +8,22 @@ require 'date'
 
 require_relative 'lib/play'
 
+slugs = {
+  today: "quelle-piece-voir-aujourd-hui-au-festival-off-d-avignon",
+  tomorrow: "quelle-piece-voir-demain-au-festival-off-d-avignon",
+  theatres: "tous-les-spectacles-du-off-2021-aujourd-hui-theatre-par-theatre"
+}
+
 def date_of_the_day(date)
   week_days = %w(lundi mardi mercredi jeudi vendredi samedi dimanche)
   "#{week_days[date.wday - 1].capitalize} #{date.day} juillet 2021"
 end
 
-filepath = 'off_parse.json'
-serialized_plays = File.read(filepath)
+pubs = File.read("pubs.txt").split("\n")
 
-plays = JSON.parse(serialized_plays).map{|part| Play.new(part)}.select{|p| p.valid?}
+plays = JSON.parse(File.read('off_parse.json')).map{|part| Play.new(part)}.select{|p| p.valid?}
 # binding.pry
-main_template = ERB.new(File.read('md_template.erb'))
+main_template = ERB.new(File.read('md_today_tomorrow_template.erb'))
 div_template = ERB.new(File.read('div_template.erb'))
 
 for day in (7..31)

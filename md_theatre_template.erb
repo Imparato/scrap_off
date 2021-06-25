@@ -1,0 +1,35 @@
+## <%= date_of_the_day(date) %>
+
+Aujourd'hui __<%= date_of_the_day(date).downcase %>__, <mark><%= selection.count %></mark> spectacles vous attendent !
+
+Théâtre par théâtre, voici tous les spectacles qui se jouent aujourd'hui <%= date_of_the_day(date).downcase %> sur Avignon.
+
+Cliquez sur le théâtre de votre choix sur la carte ou parcourez la liste des théâtres ci-dessous.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IbpwjnrpZTWJTUFbsDi1UNk2f32-TX8j" width="640" height="480"></iframe>
+
+
+<% theatres.each do |key, infos| %>
+<% if selection.count{|p| p.place_url == key} > 0%>
+<a name="<%= key %>"></a><br/>
+### <%= infos["name"] %>, aujourd'hui
+<p><small><%= infos["address"]%> - Réservations : <%= infos["tel"].join(" ou ")%></small></p>
+<p>Programmation d'aujourd'hui, <%= date_of_the_day(date).downcase %>:</p>
+<ul>
+  <% selection.select{|p| p.place_url == key}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<li><b><%= play.schedule(day).time%></b> - <a rel='nofollow' href="<%= play.page_url%>"><%= play.title%></a>
+  <% if play.relache_tomorrow?(day) %>
+  <p style="color: red">dernier jour avant relâche !</p>
+  <% end %>
+</li>
+  <% end %>
+</ul>
+<% end %>
+<% end %>
+<% theatres.each do |key, infos| %>
+<% if selection.count{|p| p.place_url == key} == 0%>
+<a name="<%= key %>"></a><br/>
+### <%= infos["name"] %>
+Aucun spectacle prévu dans ce lieu aujourd'hui.
+<% end %>
+<% end %>

@@ -20,6 +20,10 @@ class Play
     place.split.map(&:capitalize)*' '
   end
 
+  def place_anchor
+    @place_url.match(/\/([^\/]+)\/$/)[1]
+  end
+
   def to_h
     @keep
   end

@@ -1,0 +1,174 @@
+## <%= date_of_the_day(date) %>
+
+<%= time.capitalize %> __<%= date_of_the_day(date).downcase %>__, <mark><%= selection.count %></mark> spectacles vous attendent !
+
+Quelles pièces voir <%= time %> ? Consultez la liste des spectacles qui se <%= time == "demain" ? 'joueront' : 'jouent'%> [à partir de 8h](#8), [à partir de 10h](#10), [à partir de midi](#midi), [à partir de 14h](#14), [à partir de 16h](#16),  [à partir de 18h](#18), [après 20h](#20)
+
+<% if time.include?("jour")%>
+  <% if date.day < 31 %>
+Vous pouvez aussi faire votre programme pour demain, [<%= date_of_the_day(date + 1).downcase %>](quelle-piece-voir-demain-au-festival-off-d-avignon)
+  <% else %>
+Rendez-vous l'année prochaine pour encore plus de théâtre en Avignon avec [Imparato](www.imparato.io)
+  <% end %>
+<% else %>
+Revenez sur le programme [d'aujourd'hui](quelle-piece-voir-aujourd-hui-au-festival-off-d-avignon)
+<% end %>
+<br>
+<p class='blog-category' style='background-color: #ecd0364a'>💡 Consultez les dernières <a href='https://www.imparato.io/blog/quelles-restrictions-sanitaires-pour-le-off-2021'>informations concernant les restrictions sanitaires </a>pour __l'accès au Off 2021__</p>
+
+<style>
+  .row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+</style>
+<a name='8'></a><br/>
+### <%= time.capitalize %> <%= date_of_the_day(date).downcase.gsub("2021","") %>, à partir de 8h
+
+Voir aussi le créneau suivant : [à partir de 10h](#10)
+
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 8, 10)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='10'></a><br/>
+### <%= time.capitalize %> à partir de 10h
+
+Voir aussi le créneau suivant : [à partir de midi](#midi)
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 10, 12)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='midi'></a><br/>
+### <%= time.capitalize %> à partir de midi
+
+Voir aussi le créneau suivant : [à partir de 14h](#14)
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 12, 14)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='14'></a><br/>
+### <%= time.capitalize %> à partir de 14h
+
+Voir aussi le créneau suivant : [à partir de 16h](#16)
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 14, 16)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='16'></a><br/>
+### <%= time.capitalize %> à partir de 16h
+
+Voir aussi le créneau suivant : [à partir de 18h](#18)
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 16, 18)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='18'></a><br/>
+### <%= time.capitalize %> à partir de 18h
+
+Voir aussi le créneau suivant : [après 20h](#20)
+
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 18, 20)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
+
+<a name='20'></a><br/>
+### <%= time.capitalize %> après 20h
+
+<div class='row display-flex'><% counter = 1 %>
+<% selection.select{|p| p.schedule(day).today_with_time?(day, 20, 23)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
+<div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
+<% unless time == "demain" %>
+<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<% else %>
+<i><%= play.place %></i>
+<% end %>
+</small></p></div></div></div>
+<% if counter%16 == 0 %>
+<%= pubs.sample %>
+<% end %>
+<% counter += 1 %>
+<% end %>
+</div>
