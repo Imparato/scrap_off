@@ -36,7 +36,7 @@ Voir aussi le créneau suivant : [à partir de 10h](#10)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 8, 10)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -57,7 +57,7 @@ Voir aussi le créneau suivant : [à partir de midi](#midi)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 10, 12)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -78,7 +78,7 @@ Voir aussi le créneau suivant : [à partir de 14h](#14)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 12, 14)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -99,7 +99,7 @@ Voir aussi le créneau suivant : [à partir de 16h](#16)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 14, 16)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -120,7 +120,7 @@ Voir aussi le créneau suivant : [à partir de 18h](#18)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 16, 18)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -142,7 +142,7 @@ Voir aussi le créneau suivant : [après 20h](#20)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 18, 20)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>
@@ -161,7 +161,7 @@ Voir aussi le créneau suivant : [après 20h](#20)
 <% selection.select{|p| p.schedule(day).today_with_time?(day, 20, 23)}.sort{|a,b| a.schedule(day).time_to_i <=> b.schedule(day).time_to_i}.each do |play|%>
 <div class="col-md-3 col-sm-4 col-xs-6"><div class="card"><div class="header"><a rel='nofollow' href="<%= play.page_url %>"><img class="last-child img-responsive" src="<%= play.image_url %>" alt="<%= play.title %>" width="150"></a><p style="line-height: 0.9;margin: 0 0 1px"><%= play.title %></p><p style="line-height: 0.9; margin: 0 0 15px"><small><b><%= play.schedule(date.day).time %></b>,
 <% unless time == "demain" %>
-<a href="<%= slugs[:theatres]+'#'+ play.place_anchor%>"><i><%= play.place %></i></a>
+<a href="<%= slugs[:theatres]+'#'+ play.place_url%>"><i><%= play.place %></i></a>
 <% else %>
 <i><%= play.place %></i>
 <% end %>

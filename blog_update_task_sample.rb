@@ -1,13 +1,13 @@
 require 'rest-client';require 'base64';require 'json'; require 'date'
 
-def update_blog_post(slug, content, publish = true)
-  # b = BlogPost.find_by(slug: slug)
-  # b.published = publish
-  # b.published_at = Date.today
-  # b.content = content
-  # b.save!
+def update_blog_post(slug, content, publish: true)
+  b = BlogPost.find_by(slug: slug)
+  b.published = publish
+  b.published_at = Time.zone.today
+  b.content = content
+  b.save!
   #
-  puts "maj #{slug}, #{content.size} bytes, #{publish ? 'with publish' : 'unpublish'}"
+  # puts "maj #{slug}, #{content.size} bytes, #{publish ? 'with publish' : 'unpublish'}"
 end
 
 def get_content(url)
@@ -15,8 +15,8 @@ def get_content(url)
   Base64.decode64(JSON.parse(json.body)["content"]).force_encoding('UTF-8')
 end
 
-def update_articles_off(date = Date.today)
-  # créé un fichier
+def update_articles_off(date = Time.zone.today)
+
   return if date < Date.new(2021, 07, 07)
   day = date.day
   day = 99 if date > Date.new(2021, 07, 31)
@@ -46,4 +46,4 @@ def update_articles_off(date = Date.today)
 end
 
 
-update_articles_off(Date.new(2021, 07, 13))
+update_articles_off(Date.new(2021, 8, 01))
