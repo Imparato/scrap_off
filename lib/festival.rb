@@ -12,7 +12,7 @@ class Festival
   end
 
   def place_for_csv
-    @place.split(" - ").first.strip.gsub(" ","").capitalize+", France"
+    @place.split(" - ").first.strip.gsub(/[  ]+/," ").strip.capitalize+", France"
   end
 
   def public_id

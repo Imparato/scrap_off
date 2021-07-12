@@ -10,8 +10,12 @@ Nous vous avons concocté une petite liste des festivals qui accompagneront votr
 <% festivals.each do |festival|%>
 <a name='<%= festival.slug %>'></a><br/>
 ### <%= festival.title %>
-<a rel='nofollow' href="<%= festival.target_url %>"><img class="last-child img-responsive" src="<%= festival.zeego_url %>" alt="<%= festival.title %>" width="150"></a>
+<% if festival.target_url %>
+<a rel='nofollow' href="<%= festival.target_url %>"><img class="last-child img-responsive" src="<%= festival.zeego_url %>" alt="<%= festival.title %>" width="150" /></a>
+<% else %>
+<img class="last-child img-responsive" src="<%= festival.zeego_url %>" alt="<%= festival.title %>" width="150" />
+<% end %>
 
-__<%= festival.place.gsub(" ","") %>__<br><%= festival.dates %>
+__<%= festival.place.gsub(/[  ]+/, " ").strip %>__<br><%= festival.dates %>
 
 <% end %>

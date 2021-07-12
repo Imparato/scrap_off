@@ -14,7 +14,7 @@
     "dates": "01 Juin au 25 Septembre 2021",
     "place": " Augers en Brie - Seine-et-Marne (77) Ile de france",
     "page_url": "2021-festival-inventio-39915.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://inventio-music.com"
   },
   {
@@ -24,7 +24,7 @@
     "place": " Brignoles - Var (83) Provence-Alpes-Côte d'Azur-Corse",
     "page_url": "2021-art-amp-vin-39972.html",
     "theatre": true,
-    "target_url": "http://http://www.art-et-vin.net/index.php"
+    "target_url": "http://www.art-et-vin.net/index.php"
   },
   {
     "title": "Le Court en Dit Long",
@@ -204,7 +204,7 @@
     "place": " Fontainebleau - Seine-et-Marne (77) Île-de-France",
     "page_url": "2018-festival-de-lhistoire-de-lart-40236.html",
     "theatre": false,
-    "target_url": "http://http://festivaldelhistoiredelart.com/"
+    "target_url": "http://festivaldelhistoiredelart.com/"
   },
   {
     "title": "Annulé : Download Festival",
@@ -311,7 +311,7 @@
     "dates": "05 Juin au 15 Juillet 2021",
     "place": " La Châtre - Indre Centre-Val de Loire",
     "page_url": "2021-nohant-festival-chopin-4050418.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivalnohant.com/"
   },
   {
@@ -339,7 +339,7 @@
     "place": " Carry-le-Rouet - Bouches du Rhône Provence Alpes Côtes d'Azur",
     "page_url": "2021-festival-de-bd-de-carry-le-rouet-40563.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Les Rendez-Vous de la Bande-Dessinée",
@@ -347,7 +347,7 @@
     "dates": "05 au 27 Juin 2021",
     "place": " Amiens - Somme (80) Picardie",
     "page_url": "2021-les-rendez-vous-de-la-bande-dessinee-40535.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.rdvbdamiens.com/ "
   },
   {
@@ -357,7 +357,7 @@
     "place": " Lyon - Rhône Auvergne-Rhônes-Alpes",
     "page_url": "2021-festival-vlo-pour-toutes-et-tous-4050208.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Coop Live Festival",
@@ -384,7 +384,7 @@
     "place": " Saint-Michel - Aisne Hauts-de-France",
     "page_url": "2021-festival-musique-ancienne-et-baroque-de-saint-michel-4050193.html",
     "theatre": false,
-    "target_url": "http://http://www.festival-saint-michel.fr"
+    "target_url": "http://www.festival-saint-michel.fr"
   },
   {
     "title": "Annulé : CéléBRON 2021 - Festival des arts de la rue",
@@ -483,7 +483,7 @@
     "place": " LILLE - Nord (59) Île-de-France",
     "page_url": "2021-les-inrocks-4050209.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Annulé : Francofolies Esch Alzette",
@@ -572,7 +572,7 @@
     "dates": "11 au 12 Juin 2021",
     "place": " Bagnols-sur-Cèze - Gard Occitanie",
     "page_url": "2021-bagnols-sur-chaise-4050240.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.la-moba.com/"
   },
   {
@@ -590,7 +590,7 @@
     "dates": "11 au 13 Juin 2021",
     "place": " Paris 13e Arrondissement - Paris (75) Île-de-France",
     "page_url": "2021-les-nuits-des-aregravenes-4050318.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.nuitsdesarenes.com"
   },
   {
@@ -609,7 +609,7 @@
     "place": " Tarn Occitanie",
     "page_url": "2021-festival-aux-couleurs-des-les-4050333.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival Harpe en Avesnois ",
@@ -689,7 +689,7 @@
     "dates": "12 au 17 Juin 2021",
     "place": " LILLE - Nord (59) Nouvelle-Aquitaine",
     "page_url": "2021-fipadoc-4050155.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.fipadoc.com/fr"
   },
   {
@@ -699,7 +699,7 @@
     "place": " La Bourboule - Puy-de-Dôme (63) Auvergne Rhône Alpes",
     "page_url": "2021-festival-international-de-cinma-jeunes-publics-plein-la-bobine-4050176.html",
     "theatre": false,
-    "target_url": "http://http://www.pleinlabobine.com/"
+    "target_url": "http://www.pleinlabobine.com/"
   },
   {
     "title": "Lyon BD Festival",
@@ -789,7 +789,7 @@
     "place": " Gex - Ain Rhône Alpes",
     "page_url": "2021-tocirct-ou-tarts-40510.html",
     "theatre": true,
-    "target_url": "http://https://www.festivaltotoutarts.com/"
+    "target_url": "https://www.festivaltotoutarts.com/"
   },
   {
     "title": "Les Escapades Musicales ",
@@ -815,7 +815,7 @@
     "dates": "17 Juin au 29 Aout 2021",
     "place": " Marseille 1er Arrondissement - Bouches-du-Rhône (13) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-festival-de-marseille-40544.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivaldemarseille.com/fr"
   },
   {
@@ -879,7 +879,7 @@
     "place": "",
     "page_url": "2021-annule-festibuz-festival-39461.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "ANNULE : Felyn Stadium Festival",
@@ -978,7 +978,7 @@
     "place": " Maen Roch - Ille-et-Vilaine (35) Bretagne",
     "page_url": "2021-festival-maenzik-40216.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival de Musique Baroque du Jura",
@@ -986,7 +986,7 @@
     "dates": "18 Juin au 16 Octobre 2021",
     "place": " Saint-Claude - Jura Bourgogne Franche Comté",
     "page_url": "2021-festival-de-musique-baroque-du-jura-4050382.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-musique-baroque-jura.com/"
   },
   {
@@ -1077,7 +1077,7 @@
     "place": " L'Orée D'Ecouves - Orne Normandie",
     "page_url": "2021-des-yeux-et-des-oreilles-4050356.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festi'musicales de Grambois",
@@ -1104,7 +1104,7 @@
     "place": " Toulouse - 31 Languedoc-Roussillon-Midi-Pyrénées",
     "page_url": "2021-toulouse-lheure-du-yoga-4050309.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Maisons-Laffitte Jazz Festival",
@@ -1184,7 +1184,7 @@
     "dates": "23 Juin au 10 Juillet 2021",
     "place": " Vienne - 38000 Auvergne",
     "page_url": "2021-jazz-agrave-vienne-39439.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzavienne.com/fr"
   },
   {
@@ -1221,7 +1221,7 @@
     "place": " Marmande - Nouvelle-Aquitaine",
     "page_url": "2021-annule-garorock-39324.html",
     "theatre": false,
-    "target_url": "http://http://www.garorock.com"
+    "target_url": "http://www.garorock.com"
   },
   {
     "title": "Annulé : Montauban en Scènes",
@@ -1274,7 +1274,7 @@
     "dates": "24 Juin au 31 Juillet 2021",
     "place": " Miramas - Bouches-du-Rhône Sud - Provence-Alpes-Côte d'Azur",
     "page_url": "2021-festival-nuits-metis-4050633.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival.nuitsmetis.org"
   },
   {
@@ -1400,7 +1400,7 @@
     "dates": "25 Juin au 31 Juillet 2021",
     "place": " Ollioules - Var (83) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-festival-chacircteauvallon-4050154.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.chateauvallon-liberte.fr/festival/festival-dete-de-chateauvallon-2021/"
   },
   {
@@ -1409,7 +1409,7 @@
     "dates": "25 au 27 Juin 2021",
     "place": " Antibes - Alpes-Maritimes (06) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-les-nuits-carrees-4050408.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.nuitscarrees.com"
   },
   {
@@ -1446,7 +1446,7 @@
     "place": " BRAINANS - Jura Bourgogne-Franche-Comté",
     "page_url": "2021-les-nuits-rebelles-4050635.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "ORIGINES CONTROLÉES PREND SES QUARTIERS D'ÉTÉ",
@@ -1509,7 +1509,7 @@
     "place": " Toulouse - Haute-Garonne Occitanie",
     "page_url": "2021-festa-de-la-sant-joan-4050234.html",
     "theatre": true,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Retrogeek",
@@ -1535,7 +1535,7 @@
     "dates": "26 au 27 Juin 2021",
     "place": " Argeles - Pyrénées-Orientales (66) Occitanie",
     "page_url": "2021-festival-cineziq-4050481.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.cineziq.com"
   },
   {
@@ -1562,8 +1562,8 @@
     "dates": "26 au 27 Juin 2021",
     "place": " Sart Risbart  -  () Wallonie",
     "page_url": "2021-royal-park-music-festival-4050638.html",
-    "theatre": true,
-    "target_url": "http://http://www.royalparkmusicfestival.be"
+    "theatre": false,
+    "target_url": "http://www.royalparkmusicfestival.be"
   },
   {
     "title": "Urban Festival",
@@ -1617,7 +1617,7 @@
     "place": " TULLE - Corrèze (19) Nouvelle-Aquitaine",
     "page_url": "2021-du-bleu-en-hiver-40045.html",
     "theatre": false,
-    "target_url": "http://http://dubleuenhiver.fr/"
+    "target_url": "http://dubleuenhiver.fr/"
   },
   {
     "title": "Festival les sons du lac",
@@ -1625,7 +1625,7 @@
     "dates": "29 Juin au 03 Juillet 2021",
     "place": " Chateauneuf - Savoie (73) Auvergne-Rhône-Alpes",
     "page_url": "2021-festival-les-sons-du-lac-4050411.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.lessonsdulac.fr"
   },
   {
@@ -1652,7 +1652,7 @@
     "dates": "30 Juin au 25 Juillet 2021",
     "place": " Aix-en-Provence - Bouches-du-Rhône (13) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-festival-daix-en-provence-40101.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-aix.com/fr"
   },
   {
@@ -1679,7 +1679,7 @@
     "dates": "30 Juin au 31 Decembre 2021",
     "place": " Dijon - 21000 Bourgogne-Franche-Comté",
     "page_url": "2021-festival-prise-de-cirq-2021-4050516.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.cirqonflex.fr/"
   },
   {
@@ -1688,7 +1688,7 @@
     "dates": "01 au 18 Juillet 2021",
     "place": " Nîmes - Gard (30) Occitanie",
     "page_url": "2021-festival-de-nimes-39838.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivaldenimes.com"
   },
   {
@@ -1733,7 +1733,7 @@
     "dates": "01 au 08 Juillet 2021",
     "place": " Royat - puy de dome Auvergne",
     "page_url": "2021-volcadiva-39857.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://volcadiva.com "
   },
   {
@@ -1761,7 +1761,7 @@
     "place": " Paris - Île-de-France",
     "page_url": "2021-garden-parvis-4050492.html",
     "theatre": false,
-    "target_url": "http://http://www.relationspresse.online/gardenparvis/"
+    "target_url": "http://www.relationspresse.online/gardenparvis/"
   },
   {
     "title": "Annulé : Les Eurockéennes de Belfort",
@@ -1824,7 +1824,7 @@
     "place": " Grans - 13 Provence",
     "page_url": "2021-jazz-grans-4050458.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival OASIS Bizz'Art",
@@ -1904,7 +1904,7 @@
     "dates": "02 au 10 Juillet 2021",
     "place": " CAMBRAI  - 59400 HAUTS-DE-FRANCE",
     "page_url": "2021-les-rencontres-musicales-de-cambrai-4050419.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.musicales-cambrai.fr"
   },
   {
@@ -1931,7 +1931,7 @@
     "dates": "02 au 10 Juillet 2021",
     "place": " Sète - Hérault (34) Occitanie",
     "page_url": "2021-worldwide-festival-40353.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://worldwidefestival.com/fr/accueil/"
   },
   {
@@ -1985,7 +1985,7 @@
     "dates": "02 au 04 Juillet 2021",
     "place": " SEISSAN - Gers Occitanie",
     "page_url": "2021-welcome-in-tziganie-4050174.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.welcome-in-tziganie.com/"
   },
   {
@@ -2004,7 +2004,7 @@
     "place": " Lisle Sur Tarn - Tarn Occitanie",
     "page_url": "2021-arts-scnics-4050314.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival des Foins",
@@ -2022,7 +2022,7 @@
     "place": " Apchat - Puy-de-Dôme Auvergne",
     "page_url": "2021-un-pays-un-film-4050424.html",
     "theatre": false,
-    "target_url": "http://http://www.onecountryonefilm.com"
+    "target_url": "http://www.onecountryonefilm.com"
   },
   {
     "title": "Montélimar Agglo Festival ",
@@ -2142,10 +2142,10 @@
     "target_url": "http://www.facebook.com/FestivalDeBourgogneDuSud"
   },
   {
-    "title": "Festival Bien lBourgeon de rattrapage",
+    "title": "Festival Bien l'Bourgeon de rattrapage",
     "image_url": "upload/fiche/4050586.jpg",
     "dates": "03 au 04 Juillet 2021",
-    "place": " Saint-Martin-dHères - Isère (38) Auvergne Rhône Alpes",
+    "place": " Saint-Martin-d'Hères - Isère (38) Auvergne Rhône Alpes",
     "page_url": "2021-festival-bien-lbourgeon-de-rattrapage-4050586.html",
     "theatre": true,
     "target_url": "http://www.mixarts.org/association/agenda/"
@@ -2175,7 +2175,7 @@
     "place": " Carrières-sur-seine - Yvelines (78) Île-de-France",
     "page_url": "2021-macki-music-festival-40269.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Crézanswing",
@@ -2187,12 +2187,12 @@
     "target_url": "http://www.crezancyensancerre.com/lefestivalcrezanswing"
   },
   {
-    "title": "Festival NATURist por nova mondo",
+    "title": "Festival NATURist' por nova mondo",
     "image_url": "upload/fiche/40447.jpg",
     "dates": "03 au 04 Juillet 2021",
     "place": "  Baugé-en-Anjou - Maine-et-Loire (49) Pays de la Loire",
     "page_url": "2021-festival-naturist-por-nova-mondo-40447.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://festinatur.fr/"
   },
   {
@@ -2274,7 +2274,7 @@
     "place": " L'Ile Saint-Denis - Seine Saint-Denis Ile de France",
     "page_url": "2021-karab-festival-2021-4050667.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "L'ÉTÉ DU CANAL",
@@ -2363,7 +2363,7 @@
     "dates": "05 au 13 Juillet 2021",
     "place": " Montpellier - Hérault (34) Occitanie",
     "page_url": "2021-danseplatforma-4050587.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.autremina.net"
   },
   {
@@ -2471,7 +2471,7 @@
     "dates": "06 Juillet au 14 Aout 2021",
     "place": " Brive - Corrèze Nouvelle Aquitaine",
     "page_url": "2021-festival-de-la-vzre-4050172.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-vezere.com/accueil"
   },
   {
@@ -2570,7 +2570,7 @@
     "dates": "07 au 10 Juillet 2021",
     "place": " LILLE - Nord (59) Nouvelle-Aquitaine",
     "page_url": "2021-mimos-4050200.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.mimos.fr/"
   },
   {
@@ -2606,7 +2606,7 @@
     "dates": "07 au 10 Juillet 2021",
     "place": " Paris - 75 Île-de-France",
     "page_url": "2021-festival-interferences-4050540.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.cwb.fr/agenda/interference_s"
   },
   {
@@ -2633,7 +2633,7 @@
     "dates": "08 au 18 Juillet 2021",
     "place": " Carhaix-Plouguer -  (n.) Bretagne",
     "page_url": "2021-les-vieilles-charrues-39325.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.vieillescharrues.asso.fr"
   },
   {
@@ -2697,7 +2697,7 @@
     "place": " Bressuire - Deux-Sèvres (79) Nouvelle-Aquitaine",
     "page_url": "2021-festival-terre-de-danses-40218.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Jazz des Cinq Continents",
@@ -2705,7 +2705,7 @@
     "dates": "08 au 25 Juillet 2021",
     "place": " Marseille 1er Arrondissement - Bouches-du-Rhône (13) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-jazz-des-cinq-continents-40403.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.marseillejazz.com"
   },
   {
@@ -2750,7 +2750,7 @@
     "dates": "08 au 25 Juillet 2021",
     "place": " Marseille - Bouches-du-Rhône (13) Provence-Alpes Côte d'Azur",
     "page_url": "2021-marseille-jazz-des-cinq-continents-4050448.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.marseillejazz.com/"
   },
   {
@@ -2868,7 +2868,7 @@
     "place": " Rieux - Tarn (81) Occitanie",
     "page_url": "2021-loupiote-festival-4050571.html",
     "theatre": false,
-    "target_url": "http://http://lalanterneprod.fr/loupiotefestival"
+    "target_url": "http://lalanterneprod.fr/loupiotefestival"
   },
   {
     "title": "Festival Décibulles",
@@ -2876,7 +2876,7 @@
     "dates": "09 au 18 Juillet 2021",
     "place": " Neuve-Eglise - Bas-Rhin (67) Grand Est",
     "page_url": "2021-festival-decibulles-40081.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.decibulles.com"
   },
   {
@@ -2993,7 +2993,7 @@
     "dates": "09 au 11 Juillet 2021",
     "place": " Landerneau - Finistère (29) Bretagne",
     "page_url": "2021-kann-al-loar-4050410.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.kann-al-loar.bzh"
   },
   {
@@ -3011,7 +3011,7 @@
     "dates": "09 au 18 Juillet 2021",
     "place": " Neuve-Eglise - Bas-Rhin (67) Grand-Est",
     "page_url": "2021-festival-decibulles-4050462.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.decibulles.com"
   },
   {
@@ -3057,7 +3057,7 @@
     "place": " MARSEILLE - Gard Occitanie",
     "page_url": "2021-les-belles-nuits-4050588.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "DUCK A DUB ",
@@ -3066,7 +3066,7 @@
     "place": " PAVIE - Gers Occitanie",
     "page_url": "2021-duck-a-dub-4050600.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Eclectic Campagne(s)",
@@ -3105,7 +3105,7 @@
     "target_url": "http://www.jazzonthepark.fr"
   },
   {
-    "title": "Festival ",
+    "title": "Les Hivernales",
     "image_url": "upload/fiche/4050575.jpg",
     "dates": "10 au 20 Juillet 2021",
     "place": " Avignon - 84000 PACA",
@@ -3146,7 +3146,7 @@
     "dates": "10 au 17 Juillet 2021",
     "place": " Hyères - Var Provence-Alpes-Côte d'Azur",
     "page_url": "2021-jazz-porquerolles-4050303.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzaporquerolles.org"
   },
   {
@@ -3164,7 +3164,7 @@
     "dates": "10 au 28 Juillet 2021",
     "place": " Vaison-la-Romaine - Vaucluse (84) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-vaison-danses-4050652.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.vaison-danses.com/"
   },
   {
@@ -3191,8 +3191,8 @@
     "dates": "11 Juillet au 31 Octobre 2021",
     "place": " Bourbon-Lancy - 71 Bourgogne",
     "page_url": "2021-lt-des-portraits-40136.html",
-    "theatre": true,
-    "target_url": "http://https://www.letedesportraits.fr/"
+    "theatre": false,
+    "target_url": "https://www.letedesportraits.fr/"
   },
   {
     "title": "Aigues-Vives en Musiques",
@@ -3234,7 +3234,7 @@
     "title": "Festival Ça Chauffe !",
     "image_url": "upload/fiche/39964.jpg",
     "dates": "12 au 18 Juillet 2021",
-    "place": " les ponts de cé - Maine et Loire Pays de la Loire",
+    "place": "Mûrs-Erigné - Maine et Loire Pays de la Loire",
     "page_url": "2021-festival-a-chauffe-39964.html",
     "theatre": true,
     "target_url": "http://www.festival-chauffe.fr/"
@@ -3263,7 +3263,7 @@
     "dates": "12 au 18 Juillet 2021",
     "place": " Arles - Bouches-du-Rhône Provence-Alpes-Côte d'Azur.",
     "page_url": "2021-festival-les-suds-arles-4050236.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.suds-arles.com"
   },
   {
@@ -3308,7 +3308,7 @@
     "dates": "13 au 21 Juillet 2021",
     "place": " Sète - Hérault (34) Occitanie",
     "page_url": "2021-festival-jazz-agrave-segravete-40479.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzasete.com"
   },
   {
@@ -3326,7 +3326,7 @@
     "dates": "13 Juillet au 22 Aout 2021",
     "place": " Marcilhac-sur-Célé - Lot Occitanie",
     "page_url": "2021-marcilhac-des-artistes-39954.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.abbayedemarcilhac.com"
   },
   {
@@ -3336,7 +3336,7 @@
     "place": " Hastingues - 40300 Nouvelle Aquitaine",
     "page_url": "2021-la-parade-des-5-sens-4050573.html",
     "theatre": true,
-    "target_url": "n.c"
+    "target_url": "https://www.laparadedes5sens.fr"
   },
   {
     "title": "Rue des Etoiles",
@@ -3345,7 +3345,7 @@
     "place": " BISCARROSSE - Landes Nouvelle-Aquitaine",
     "page_url": "2021-rue-des-etoiles-4050202.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Sion sous les étoiles",
@@ -3533,7 +3533,7 @@
     "dates": "16 Juillet au 01 Aout 2021",
     "place": " Vevey - Cher (18) ",
     "page_url": "2021-le-verbier-festival-39860.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.verbierfestival.com/"
   },
   {
@@ -3731,7 +3731,7 @@
     "dates": "16 Juillet au 16 Aout 2021",
     "place": " Pradelles - Haute-Loire (43) Auvergne-Rhône-Alpes",
     "page_url": "2021-le-festival-du-mazonric-4050471.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivalmazonric.com"
   },
   {
@@ -3821,7 +3821,7 @@
     "dates": "17 Juillet au 31 Aout 2021",
     "place": " Salzbourg - Manche (50) Salzburg",
     "page_url": "2021-festival-de-salzbourg-40217.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.salzburg.info/en/salzburg/salzburg-festival/salzburg-festival"
   },
   {
@@ -3867,7 +3867,7 @@
     "place": " Sainte Marie aux Mines - 068 Alsace",
     "page_url": "2021-quartier-libre-4050852.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Les Esclaffades",
@@ -3876,7 +3876,7 @@
     "place": " SAINT HELEN - Côtes-d'Armor Bretagne",
     "page_url": "2021-les-esclaffades-4050806.html",
     "theatre": false,
-    "target_url": "http://http://www.festival-esclaffades.com/"
+    "target_url": "http://www.festival-esclaffades.com/"
   },
   {
     "title": "Le festival des Essentiels",
@@ -3885,7 +3885,7 @@
     "place": " Paris - Île-de-France",
     "page_url": "2021-le-festival-des-essentiels-4050579.html",
     "theatre": true,
-    "target_url": "http://https://festivaldesessentiels.org"
+    "target_url": "https://festivaldesessentiels.org"
   },
   {
     "title": "SiciliAmbiente Film Festival",
@@ -3956,7 +3956,7 @@
     "dates": "19 au 25 Juillet 2021",
     "place": " Marseille - Bouches-du-Rhône Provence-Alpes-Côte d'Azur",
     "page_url": "2021-fidmarseille-40539.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.fidmarseille.org/"
   },
   {
@@ -4226,7 +4226,7 @@
     "dates": "22 au 25 Juillet 2021",
     "place": " Quimper - Finistère (29) Bretagne",
     "page_url": "2021-festival-de-cornouaille-4050472.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-cornouaille.bzh/"
   },
   {
@@ -4245,7 +4245,7 @@
     "place": " Sarcelles - Val d'Oise Ile-de-France",
     "page_url": "2021-les-polykromies-de-sarcelles-4050800.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Streisselhochzeit ",
@@ -4343,8 +4343,8 @@
     "dates": "23 au 31 Juillet 2021",
     "place": " Saint-Sernin-du-Plain - Saône-et-Loire Bourgogne-Franche-Comté",
     "page_url": "2021-nuits-du-mont-rome-4050197.html",
-    "theatre": true,
-    "target_url": "n.c"
+    "theatre": false,
+    "target_url": "https://nuitsdumontrome.com"
   },
   {
     "title": "Salon Parapsy - Aix-les-Bains",
@@ -4354,15 +4354,6 @@
     "page_url": "2021-salon-parapsy-aix-les-bains-4050360.html",
     "theatre": false,
     "target_url": "http://www.salonparapsy.com/"
-  },
-  {
-    "title": "Festival Fiest'A Sète",
-    "image_url": "upload/fiche/4050421.jpg",
-    "dates": "23 Juillet au 06 Aout 2021",
-    "place": " Sète - Hérault Occitanie",
-    "page_url": "2021-festival-fiesta-ste-4050421.html",
-    "theatre": true,
-    "target_url": "http://www.fiestasete.com"
   },
   {
     "title": "Voix Vives, de Méditerranée en Méditerranée",
@@ -4461,7 +4452,7 @@
     "place": " Roubaix - Nord (59) Hauts-de-France",
     "page_url": "2021-open-air-hippie-chic-4050392.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Chant de l'Eucalyptus",
@@ -4487,7 +4478,7 @@
     "dates": "25 Juillet au 15 Aout 2021",
     "place": " Condom - Gers Occitanie",
     "page_url": "2021-nuits-musicales-en-armagnac-4050845.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.nma32.com"
   },
   {
@@ -4622,7 +4613,7 @@
     "dates": "28 Juillet au 18 Septembre 2021",
     "place": " TOULOUSE - Haute-Garonne Occitanie",
     "page_url": "2021-les-quartiers-dt-de-toulouse-les-orgues-4050531.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.toulouse-les-orgues.org"
   },
   {
@@ -4803,7 +4794,7 @@
     "place": " Saint-Hippolyte-du-Fort - Gard Occitanie",
     "page_url": "2021-saint-hip-hop-4050860.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival Eurochestries Charente-Maritime",
@@ -4811,7 +4802,7 @@
     "dates": "30 Juillet au 12 Aout 2021",
     "place": " Jonzac - Charente-Maritime, Charente et Gironde Nouvelle-Aquitaine",
     "page_url": "2021-festival-eurochestries-charente-maritime-4050873.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.eurochestries.org/17"
   },
   {
@@ -4847,7 +4838,7 @@
     "dates": "31 Juillet au 04 Aout 2021",
     "place": " Nargis - Loiret (45) Nouvelle-Aquitaine",
     "page_url": "2021-jazz-au-phare-4050451.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzauphare.com/"
   },
   {
@@ -4866,7 +4857,7 @@
     "place": " Moutiers-les-Mauxfaits - Vendée Pays-de-la-Loire",
     "page_url": "2021-huche-n-groll-festival-4050803.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival 37° à l’ombre",
@@ -4874,7 +4865,7 @@
     "dates": "01 au 22 Aout 2021",
     "place": " Tours - Indre-et-Loire (37) Centre Val de Loire",
     "page_url": "2021-festival-37deg-agrave-lrsquoombre-40396.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.lasimplesse.com "
   },
   {
@@ -4910,7 +4901,7 @@
     "dates": "03 au 07 Aout 2021",
     "place": " Termes d'Armagnac - Gers Occitanie",
     "page_url": "2021-les-moissons-dete-40566.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.lesmoissonsdete.wixsite.com"
   },
   {
@@ -4956,7 +4947,7 @@
     "place": " Chambery - Savoie (73) Auvergne-Rhône-Alpes",
     "page_url": "2021-festival-de-voyance-4050839.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Jours de Théâtre",
@@ -5099,7 +5090,7 @@
     "dates": "06 au 08 Aout 2021",
     "place": " LILLE - Nord (59) Côtes d'Armor",
     "page_url": "2021-jazz-in-langourla-4050116.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzinlangourla.asso22.fr/"
   },
   {
@@ -5126,7 +5117,7 @@
     "dates": "06 au 13 Aout 2021",
     "place": " FLEURANCE - Gers Occitanie",
     "page_url": "2021-festival-astronomie-fleurance-4050644.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-astronomie.fr"
   },
   {
@@ -5163,7 +5154,7 @@
     "place": "  Le Vigan. - Lot occitanie",
     "page_url": "2021-les-rencontres-du-thtre-daymare-4050819.html",
     "theatre": true,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival de Sainte-Mère",
@@ -5216,7 +5207,7 @@
     "dates": "07 au 22 Aout 2021",
     "place": " TOURS - Indre-et-Loire (37) CENTRE VAL DE LOIRE",
     "page_url": "2021-festival-laquo-la-musica-in-audacia-raquo-au-chateau-royal-drsquoamboise-40397.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.lasimplesse.com "
   },
   {
@@ -5235,7 +5226,7 @@
     "place": " PONS - 17 Charente Maritime",
     "page_url": "2021-les-fadas-du-barouf-simplement-fadas-4050657.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Tournoi de béhourd de Parthenay",
@@ -5244,7 +5235,7 @@
     "place": "",
     "page_url": "2021-tournoi-de-bhourd-de-parthenay-4050869.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival d'été de Gargilesse ",
@@ -5360,7 +5351,7 @@
     "dates": "12 au 14 Aout 2021",
     "place": " Villefranche de Rouergue - Aveyron Occitanie",
     "page_url": "2021-labyrinthe-musical-en-rouergue-4050553.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": ""
   },
   {
@@ -5396,8 +5387,8 @@
     "dates": "13 au 22 Aout 2021",
     "place": " RENNES - Ille-et-Vilaine Bretagne",
     "page_url": "2021-festival-klasik-39877.html",
-    "theatre": true,
-    "target_url": "n.c"
+    "theatre": false,
+    "target_url": null
   },
   {
     "title": "No Logo Festival",
@@ -5559,13 +5550,13 @@
     "place": " Charleville-Mézières - Ardennes (08) Grand-Est",
     "page_url": "2021-face-b-40553.html",
     "theatre": true,
-    "target_url": "http://www.lamacerienne.com/faceb/?fbclid=IwAR3qjsZ2aH8Vb74odo8u50LUeIFjywsERuD0Nl2FtBFpp_mu9Gt1WmgtXK8"
+    "target_url": "http://www.lamacerienne.com"
   },
   {
     "title": "Festival National des Humoristes ",
     "image_url": "upload/fiche/4050399.jpg",
     "dates": "19 au 28 Aout 2021",
-    "place": "  -  () Auvergne-Rhône-Alpes",
+    "place": "Tournon sur Rhône - Auvergne-Rhône-Alpes",
     "page_url": "2021-festival-national-des-humoristes-4050399.html",
     "theatre": true,
     "target_url": "http://www.festivaldeshumoristes.com/"
@@ -5720,7 +5711,7 @@
     "dates": "21 au 24 Aout 2021",
     "place": " Cluny - Saône-et-Loire Bourgogne",
     "page_url": "2021-jazz-campus-en-clunisois-4050856.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzcampus.fr/"
   },
   {
@@ -5810,7 +5801,7 @@
     "dates": "25 au 29 Aout 2021",
     "place": " Coutances - Manche (50) Normandie",
     "page_url": "2021-jazz-sous-les-pommiers-40251.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.jazzsouslespommiers.com"
   },
   {
@@ -6053,7 +6044,7 @@
     "dates": "01 au 12 Septembre 2021",
     "place": " Saint-Brieuc -  (22) Bretagne",
     "page_url": "2021-art-rock-39967.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.artrock.org"
   },
   {
@@ -6099,7 +6090,7 @@
     "place": " Querrien - 29 Bretagne",
     "page_url": "2021-tomahawk-festival-39522.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival Philosophia",
@@ -6134,8 +6125,8 @@
     "dates": "03 au 04 Septembre 2021",
     "place": " Orange - Vaucluse (84) Provence-Alpes-Côte d'Azur",
     "page_url": "2021-positiv-festival-40226.html",
-    "theatre": true,
-    "target_url": "http://positivfestival.fr"
+    "theatre": false,
+    "target_url": "https://positivfestival.fr"
   },
   {
     "title": "Essonne En Scène",
@@ -6320,8 +6311,8 @@
   {
     "title": "Scopitone ",
     "image_url": "upload/fiche/nondispo-1.jpg",
-    "dates": "",
-    "place": "",
+    "dates": "08 au 19 septembre 2021",
+    "place": " Nantes - Loire-Atlantique",
     "page_url": "2021-scopitone-4050664.html",
     "theatre": true,
     "target_url": "http://www.stereolux.org/scopitone-2021"
@@ -6467,7 +6458,7 @@
     "dates": "10 au 11 Septembre 2021",
     "place": " Bourgoin-Jallieu - Isère (38) Auvergne-Rhône-Alpes",
     "page_url": "2021-les-belles-journees-40449.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.bellesjournees.fr/"
   },
   {
@@ -6512,7 +6503,7 @@
     "dates": "10 au 25 Septembre 2021",
     "place": " Basançon - Doubs Bourgogne - Franche-Comté",
     "page_url": "2021-festival-de-besanon-4050373.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festival-besancon.com"
   },
   {
@@ -6557,7 +6548,7 @@
     "dates": "11 au 11 Septembre 2021",
     "place": " Messimy - Rhône (69) Rhone Alpes Auvergne",
     "page_url": "2021-les-grosses-guitares-4050423.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.lesgrossesguitares.com/"
   },
   {
@@ -6594,13 +6585,13 @@
     "place": " Paris 8e Arrondissement - Paris (75) Île-de-France",
     "page_url": "2021-champs-elysees-film-festival-40001.html",
     "theatre": false,
-    "target_url": "http://http://www.champselyseesfilmfestival.com/2020/ledition-2021/"
+    "target_url": "http://www.champselyseesfilmfestival.com/2020/ledition-2021/"
   },
   {
     "title": "Le Chainon Manquant",
     "image_url": "upload/fiche/40112.jpg",
     "dates": "14 au 19 Septembre 2021",
-    "place": " LAVAL - Mayenne (53) Pays-de-la-Loire",
+    "place": " Laval - Mayenne (53) Pays-de-la-Loire",
     "page_url": "2021-le-chainon-manquant-40112.html",
     "theatre": true,
     "target_url": "http://www.lechainon.fr"
@@ -6747,7 +6738,7 @@
     "place": " CHAMPFREMONT - M%ayenne Pays de la Loire",
     "page_url": "2021-au-bout-du-champ-4050139.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival C'est comme ça ! 21",
@@ -6764,7 +6755,7 @@
     "dates": "19 au 27 Septembre 2021",
     "place": " Lille - Nord (59) Hauts-de-France",
     "page_url": "2021-festival-international-du-court-metrage-de-lille-4050643.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivalducourt-lille.com"
   },
   {
@@ -6827,7 +6818,7 @@
     "dates": "24 au 26 Septembre 2021",
     "place": " Morlaix - Finistère (29) Bretagne",
     "page_url": "2021-festival-panoramas-39992.html",
-    "theatre": true,
+    "theatre": false,
     "target_url": "http://www.festivalpanoramas.com"
   },
   {
@@ -6873,7 +6864,7 @@
     "place": " Tourcoing - Nord (59) Hauts-de-France",
     "page_url": "2021-pop-factory-festival-4050435.html",
     "theatre": false,
-    "target_url": "n.c"
+    "target_url": null
   },
   {
     "title": "Festival Septembal",
@@ -6900,7 +6891,7 @@
     "place": " Venon - Isère Rhône Alpes",
     "page_url": "2021-festival-changer-dairs-4050874.html",
     "theatre": false,
-    "target_url": "http://http://venon.festival.free.fr/"
+    "target_url": "http://venon.festival.free.fr/"
   },
   {
     "title": "Festival de Biarritz Amérique Latine",
@@ -6939,3 +6930,4 @@
     "target_url": "http://www.dinardfilmfestival.fr"
   }
 ]
+

@@ -1,8 +1,8 @@
-require "cloudinary"
+# require "cloudinary"
 require_relative "festivals"
 require 'pry-byebug'
 require 'dotenv/load'
-require 'CSV'
+require 'csv'
 
 
 fests = festivals
