@@ -1,0 +1,17 @@
+## Tous les festivals de théâtre de votre été !
+
+Nous vous avons concocté une petite liste des festivals qui accompagneront votre été. Localisez votre festival __sur la carte__ ou parcourez les 115 festivals en vous laissant inspirer par les visuels.
+
+
+<p class='blog-category' style='background-color: #ecd0364a'>💡 Si votre festival n'est pas dans la liste ou si ses informations sont erronées, <a rel='nofollow' href='https://impfeedbacks.typeform.com/to/ZUEpv2hc'>dites-le nous !</a></p>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1JRnVLFQUsqa5wi_ufPyyB24_0bA967jN" width="640" height="480"></iframe>
+
+<% festivals.each do |festival|%>
+<a name='<%= festival.slug %>'></a><br/>
+### <%= festival.title %>
+<a rel='nofollow' href="<%= festival.target_url %>"><img class="last-child img-responsive" src="<%= festival.zeego_url %>" alt="<%= festival.title %>" width="150"></a>
+
+__<%= festival.place.gsub(" ","") %>__<br><%= festival.dates %>
+
+<% end %>
