@@ -45,7 +45,7 @@ places.keys.each do |url|
   places[url][:longlat] = theatre[:longlat]
   places[url][:tel] = theatre[:tel]
   places[url][:social] = theatre[:social]
-  places[url][:anchor] = url.match(/\/([^\/]+)\/$/)[1]
+  places[url][:anchor] = url
   counter += 1
 end
 
