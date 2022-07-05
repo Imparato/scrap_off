@@ -1,0 +1,63 @@
+.Arial10Normal {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: #FFFFFF}
+.Arial10Bold {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #FFFFFF}
+
+.Arial12Bold {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #FFFFFF}
+.Arial12Normal {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: #FFFFFF}
+
+.Arial10NormalJaune {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: #FF0}
+.Arial10BoldJaune {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #FF0}
+.Arial12NormalJaune {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: normal; color: #FF0}
+.Arial12BoldJaune {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; color: #FF0}
+
+.Arial14Bold {  font-family: Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: bold; color: #FFFFFF}
+
+.Arial14Normal {  font-family: Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: normal; color: #FFFFFF}
+
+.Arial20Bold {font-family: Arial, Helvetica, sans-serif; font-size: 16pt; font-weight: bold; color: #FFFFFF}
+
+.Arial30Bold {font-family: Arial, Helvetica, sans-serif; font-size: 18pt; font-weight: bold; color: #FFFFFF}
+#BlocTexteArial10Normal {
+}
+
+a:link {
+	color: #FFFFFF;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #FFFFFF;
+}
+a:active {
+	color: #FFFFFF;
+}
+
+.CouleurFondTableauContenuNormal {
+	background-color: #252525;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF
+}
+
+.CouleurFondTableauNormal {
+	background-color: #620000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFFF
+}
+
+.CouleurFondTableauEntete {
+	background-color: #620000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	font-weight: bold;
+	color: #FFFFFF
+}
+
+body {
+	background-color: #252525;
+}
+body,td,th {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}

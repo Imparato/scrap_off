@@ -1,0 +1,10 @@
+{
+  fr:["de","la","le","et","les","des","en","un","du","une","que","est","pour","qui","dans","a","par","plus","pas","au","sur","ne","se"],
+  en: ["the","and","to","of","a","in","is","that","for","I","you","it","with","on","as","are","be","this","was","have","or","at","not"],
+  de: ["ist", "du", "ich", "sie", "das", "die", "es", "und", "der", "zu", "ein", "wir", "mir", "mit", "was", "den", "mich", "auf", "er", "sind", "von", "dich"],
+  it: ["non","di","che","è","e","la","il","un","a","per","in","una","mi","sono","ho","ma","lo","ha","le","si","ti","i"],
+  es: ["que","de","no","a","la","el","es","y","en","lo","un","por","qué","me","una","te","los","se","con","para","mi","está"],
+  pl: ["que","não","de","um","para","eu","se","me","uma","está","com","do","por","te","os","bem","em","ele","isso","mas","da","como","no"],
+  tr: ["bir","ve","olmak","bu","için","o","ben","demek","çok","yapmak","ne","gibi","daha","almak","var","kendi","gelmek","ile","vermek","ama","sonra","kadar","yer"],
+  su: ["jag","det","år","du","inte","att","en","och","här","vi","på","i","för","han","vad"]
+}
